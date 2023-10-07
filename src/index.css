@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color:#fff;
+}
+
+.star{
+  color:red;
+}
+
+.menu-L {
+  @apply flex gap-5 items-center p-4 border-b-2 border-blue-light hover:text-orange-200
+}
+
+.menu-L span{
+  @apply hover:text-orange-200
+}
+
+.inputAdd::focus{
+  border:none;
+}
+
+.displayS span{
+  @apply font-medium px-[5px] py-[8px] flex border-b-2 border-gray-500 flex gap-2 items-center
+}
+
+@layer components {
+  .b-Shadow{
+    box-shadow:0 0.5rem 1rem black;
+  }
+  .span{
+    @apply 
+    rounded-full 
+    bg-blue-600 
+    w-10
+    h-10
+    p-1
+    block
+    
+  }
+}
+
+@layer utilities{
+  .bg-main{
+    background:#282c34;
+  }
+  .color-sp{
+    color:#282c34;
+  }
+  .bg-light{
+    background:#434a58;
+    
+  }
+  .border-light{
+    border:2px solid rgba(255,255,255,0.7);
+    
+  }
+  .p-sp{
+    @apply px-[1.5rem] 
+  }
+  
+}
+
+

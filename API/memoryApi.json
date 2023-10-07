@@ -1,0 +1,3021 @@
+{
+  "Boxes": [
+    {
+      "id": 1,
+      "box": "Blood Physiology "
+    },
+    {
+      "id": 2,
+      "box": "ANA 201(upper Limb)"
+    },
+    {
+      "id": 3,
+      "box": "CSC"
+    },
+    {
+      "id": 4,
+      "box": "BCH 203 (Carbs)"
+    },
+    {
+      "id": 5,
+      "box": "PHS 222 (Neuron)"
+    },
+    {
+      "id": 6,
+      "box": "BCH 205(Amino acid)"
+    },
+    {
+      "id": 7,
+      "box": "Extracurricular "
+    },
+    {
+      "id": 8,
+      "box": "ANA 205(histology)"
+    },
+    {
+      "id": 9,
+      "box": "Brain Books"
+    },
+    {
+      "id": 10,
+      "box": "Vocabulary "
+    },
+    {
+      "id": 11,
+      "box": "BCH (lipids)"
+    }
+  ],
+  "Cards": [
+    {
+      "id": 1,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Glycine & Succinyl CoA",
+      "content": "Glycine & Succinyl is the Starting materials of heme synthesis\n\n1.    The amino acid glycine is the sole nitrogenous precursor for the synthesis of the protoporphyrin of hemoglobin . The synthesis of one heme ring requires eight molecules of glycine ,which contribute all four nitrogen atoms plus five carbon atoms.\n\n2.   succinyl-CoA is an intermediate of the Krebs cycle,",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Heme synthesis ",
+      "content": "Heme synthesis starts in mitochondria with the condensation of succinyl-CoA with the amino acid glycine, activated by pyridoxal phosphate. ALA synthase is the rate-limiting enzyme of heme synthesis.",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Delta AminoLeuvlinic Acid (ALA)",
+      "content": "This is first compound formed in  heme synthesis in the mitochondria by the condensation of glycine and Succinyl CoA ",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "AminoLeuvlinate Synthase ",
+      "content": "Is the First Enzyme in heme Synthesis pathway  found in the mitochondria that catalysed the condensation of Glycine and Succinyl CoA to form ALA. It is referred to as a rate limiting enzyme of heme Synthesis because it is the key enzyme that begins heme Synthesis and it determines the overall rate of heme Synthesis \n",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "pyridoxal Phosphate",
+      "content": "pyridoxal Phosphate is the active form of pyridoxine or vitamin B6. And also a Cofactor/Co-enzyme to ALA Synthase in the Synthesis of Delta AminoLeuvlinic acid.",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 6,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Porphobilinogen (PBG)",
+      "content": "This is the second compound formed in the heme synthetic pathway, four molecules of PBG are formed by the condensation and dehydration of two molecules of AminoLeuvlinic acid, and they are monopyrole ",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 7,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "ALA Dehydratase",
+      "content": "This is the second enzyme involved in heme synthesis, that catalysed the reaction of two molecules of ALA to form four pyrole i.e Porphobilinogen, it requires zinc for it's activity and can be inhibited by lead.",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 8,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "porphyrins ",
+      "content": "Porphyrins are cyclic molecules formed by the linkage of four pyrrole rings through methenyl bridges.",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 9,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Heme structure 1",
+      "content": "The heme structure contains a ring of tetrapyrrole. The tetrapyrrole is formed by joining four pyrrole rings. A pyrrole has four atoms of carbon and one atom of nitrogen arranged in the shape of a pentagon. If the tetrapyrrole contains a metal ion between its ring structure, this ring structure is known as porphyrin.",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 10,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Uroporphyrinogen 3 ",
+      "content": "This the 3rd significant compound formed in heme synthetic pathway and the first porphyrinogen to be formed in heme synthesis,  it contains four pyrole rings linked by a methenyl bridges (derived from alpha carbon of glycine) formed from four molecules of porphobilinogen.",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 11,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Uroporphyrinogen 1 Synthase / Porphobilinogen deaminase",
+      "content": "This is the 3rd enzyme in heme synthetic pathway that catalysed the condensation and deamination (in which four molecules of ammonia is removed) of four molecules of porphobilinogen to form hydroxymethylbilane",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 12,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Hydroxymethylbilane ",
+      "content": "Is a linear tetrapyrrole that is formed from the condensation and deamination of four pyrole ring porphobilinogen and due to its unstablility it undergoes a spontaneous cyclization to form Uroporphyrinogen 1",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 13,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Uroporphyrinogen 1 Synthase ",
+      "content": "This enzyme rearranged the orientation of propionate and vinyl group of one of the pyrole ring which ring number 4 of Uroporphyrinogen 1 to form Uroporphyrinogen 3",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 14,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Coproporphyrinogen 3",
+      "content": "This is the fifth compound form from the decarboxylation (total of 4 carbon iv oxide molecules) of Uroporphyrinogen 3 and it then diffused into the mitochondria from the cytosol ",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 15,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Protoporphrinogen ix",
+      "content": "Is the formed from the oxidation of Coproporphyrinogen 3",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 16,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Coproporphyrinogen oxidase",
+      "content": "Oxidizes Coproporphyrinogen 3 to protoporphrinogen ",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 17,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Protoporphrinogen oxidase ",
+      "content": "Oxidizes protoporphrinogen ix to protoporphrin ix",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 18,
+      "boxId": 1,
+      "subBoxId": 1,
+      "title": "Ferrochelatase",
+      "content": "Oxides protoporphrin ix to heme",
+      "date": "10th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 19,
+      "boxId": 2,
+      "subBoxId": 2,
+      "title": "Axial & Appendicular Skeleton ",
+      "content": "axial skeleton, the part of the bony structure of the body that consists of the bones of the skull, the vertebral column, and the rib cage. The axial skeleton serves primarily to support and protect the heart, lungs, and central nervous system, which is made up of the brain and spinal cord. The axial skeleton differs from the appendicular skeleton, which is made up of the bones of the upper and lower limbs.",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 20,
+      "boxId": 2,
+      "subBoxId": 2,
+      "title": "Pectoral Girdle",
+      "content": "A pectoral girdle, also referred to as the shoulder girdle, connects your upper limbs to the bones along the axis of your body. You have two pectoral girdles in your body. The pectoral girdle consists of the two bones that make up your shoulder: clavicle, or collarbone. scapula, or shoulder blade.",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 22,
+      "boxId": 2,
+      "subBoxId": 2,
+      "title": "Function of the clavicle ",
+      "content": "It act as a strut that holds the upper limb far away from the trunk which allows free movement and rotation of the upper limb for various activities\n\n (2). It provides area for muscle attachments \n\n(3). It transmitts force from the upper limb to the axial skeleton sternum.",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 23,
+      "boxId": 2,
+      "subBoxId": 2,
+      "title": "Parts of a Clavicle ",
+      "content": "Medial end :-: the medial end is quadrilateral and it is attached to the sternum, \n\nlateral end :-: is flattened is attached to acomion of the scapular.\n\nShaft :-: is circular , two third of the shaft is convex white one third is concave and it has a groove located inferriory ",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 24,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Ossification ",
+      "content": "Ossification: The process of creating bone, that is of transforming cartilage (or fibrous tissue) into bone. \nThe process of bone formation is called osteogenesis or ossification. After progenitor cells form osteoblastic lines, they proceed with three stages of development of cell differentiation, called proliferation, maturation of matrix, and mineralization",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 25,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Clavicle osification ",
+      "content": "Osification of clavicle is Membranocartilaginous, all the osifies of clavicle are membrane except the medial end which is cartilaginous, (this means that membrane and cartilage undergoes ossification to form the clavicle bone). And their four osification center, the two primary center for the shaft and two secondary center for each of the ends. Clavicle is the first bone to ossify in human body ",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 26,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Clavicle fracture ",
+      "content": "The site where normally got fractured in the clavicle when the shoulder experience a force is the junction of its lateral concave one third and medial convex two third. This is because that's the weakest site of the clavicle, and it is the site where the two curves join",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 27,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Cleidocranial dysostosis",
+      "content": "Cleidocranial dysostosis: It is a clinical condition \r\ncharacterized by partial or complete absence of clavicle \r\nassociated with defective ossification of the skull bones.\r",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 28,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Clavicle dysostosis ",
+      "content": "Clavicular dysostosis: It is a clinical condition in which \r\nmedial and lateral parts of clavicle remain separate due to \r\nnonunion of two primary centers of ossification.",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 29,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Definition and anatomical positions Scapular ",
+      "content": "It is a large, flattened and trianglar bone located on the upper part of the posterolateral aspect of the thorax against 2nd to 7th ribs",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 30,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Parts of Scapular ",
+      "content": "1). The surface(it has dorsal and costal surface)\n2) border(lateral, medial,superior border) \n3) angle (superior, inferior and lateral)",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 31,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Process in scapular ",
+      "content": "1) Spinous process: a shell like projection at the posterior part of the scalpular or dorsal surface of the scapular. And it divides the dorsal surface into two third supraspinous fossa, and one third infraspinatus fossa.\n2) coracoid process: that's where the clavicle bone articulate with the coracoid to form coracoclavicle joint\n3) glenoid process: articulate with the ball like head of the humerus to form glenohumeral joint a ball and socket joint and a synovial joint.",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 32,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "infraspinatus muscle",
+      "content": "Arrise from medial two third of the infraspinous fossa(bellow the spinous process)",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 33,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Supraspinatus muscle ",
+      "content": "Arisea from two third of the supraspinous fossa (above the spine process)",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 34,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "spinoglenoid notch ",
+      "content": "Located between the border of the spinous process and the dorsal surface of the neck of the scapular through which the supraspinous fossa communicate with the infraspinous fossa, and through which the subscapular nerve pass from supraspinous fossa to infraspinous fossa",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 35,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Scapular Osification ",
+      "content": "The ossification of scapula is cartilaginous. The cartilaginous \r\nscapula is ossified by eight centres—one primary and seven \r\nsecondary.\r\nThe primary centre appears in the body.\r\nThe secondary centres appear as follows:\r\n1. Two centres appear in the coracoid process.\r\n2. Two centres appear in the acromion process.\r\n3. One centre appears each in the (a) medial border, \r\n(b) inferior angle, and (c) in the lower part of the rim of \r\nglenoid cavity.\r\nThe primary centre in the body and first secondary centre \r\nin the coracoid process appears in eighth week of \r\nintrauterine life (IUL) and first year of postnatal life, \r\nrespectively and they fuse at the age of 15 years.\r\nAll other secondary centres appear at about puberty and \r\nfuse by 20th year.\r\n",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 36,
+      "boxId": 2,
+      "subBoxId": 2,
+      "title": "Humerus ",
+      "content": "This bone of the arm, it is longest and strongest bone of the upper limb",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 37,
+      "boxId": 2,
+      "subBoxId": 2,
+      "title": "Parts of the humerus ",
+      "content": "1) the upper end\n2) the lower end\n3) shaft",
+      "date": "11th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 38,
+      "boxId": 3,
+      "subBoxId": 5,
+      "title": "Sub topics on Number System ",
+      "content": "(1). Standard Numbers.\n(2). Conversion of any base to base 10 i.e binary.\n(3). Conversion of decimal numbers of any base to decimal.\n(4). Conversion of base 10 to any base specifically to (base 2,8 & 16).\n(5). Conversion of decimal numbers of base 10 to any base.\n(6). Use of octal numbers as intermediate step.\n(7). Complement \n\n",
+      "date": "12th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 39,
+      "boxId": 3,
+      "subBoxId": 5,
+      "title": "Number System ",
+      "content": "Number System is the building blocks of computer and information technology.",
+      "date": "12th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 40,
+      "boxId": 3,
+      "subBoxId": 5,
+      "title": "Standard numbers",
+      "content": "(1) Binary :-:  base 2 , from 0-1\n(2). Octal :-:  base 8, from 0-7\n(3). decimal :-: base 10, from 0-9\n(4). Hexadecimal :-: base i6, from 0-f",
+      "date": "12th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 41,
+      "boxId": 3,
+      "subBoxId": 5,
+      "title": "From any base to base 10",
+      "content": "To convert from any base to base ten, the place value method is used",
+      "date": "12th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 42,
+      "boxId": 3,
+      "subBoxId": 5,
+      "title": "Decimal numbers of any base to base 10",
+      "content": "Conversion ",
+      "date": "12th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 43,
+      "boxId": 3,
+      "subBoxId": 5,
+      "title": "From base 10 to any base",
+      "content": "Conversion from base 10 to other base is achieved by dividing consistently with the base to be converted to, until the quotient becomes 0",
+      "date": "12th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 44,
+      "boxId": 3,
+      "subBoxId": 5,
+      "title": "From base 2,8 & 16 to other base",
+      "content": "First convert to base 10 then to the other base",
+      "date": "12th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 45,
+      "boxId": 3,
+      "subBoxId": 5,
+      "title": "Adding number System ",
+      "content": "While adding, of the numbers gotten from addition is equal or greater than the base, the numbers should be divided by the base to the lowest, i.e the until the quotient becomes 0 ",
+      "date": "12th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 46,
+      "boxId": 3,
+      "subBoxId": 5,
+      "title": "Substraction of number System ",
+      "content": "While subtracting and 1 is borrowed from the next number, that one becomes the base then it's added to the number",
+      "date": "12th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 47,
+      "boxId": 3,
+      "subBoxId": 5,
+      "title": "Multiplication & division of number System ",
+      "content": "Multiplication & division ",
+      "date": "12th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 48,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Sub Topics ",
+      "content": "(1) definition & explanation of Carbohydrates\n(2). 3 major Types of Carbohydrates\n(3). Monosaccharides (definition , examples, structures)\n(4). Disaccharides\n(5). Polysaccharides\n(6). Chemical properties of Carbohydrates\n(7). Stereochemistry\n(8). Biological significance of Carbohydrates \n(5). ",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 49,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Carbohydrates definition ",
+      "content": "The word carbohydrate is a contraction of “hydrated carbon”.\n\noptically active polyhydroxy aldehydes or ketones or the compounds which produce units of such type on hydrolysis.\n\nThe general formula for carbohydrates is Cx(H2O)y.\n\nCarbohydrates are polyhydroxy aldehydes, ketones,",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 50,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Types of Carbohydrates ",
+      "content": "The three main types are\n1. Monosaccharides (one sugar unit, they monomers of Carbohydrates)\n\n2. Oligosaccharides( made up of 2 to 10 simple sugar units)\n\n3. Polysaccharides (more than 10 sugar units)",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 51,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "D-glucose",
+      "content": "It is also known as dextrose, because it is dextrorotatory (meaning that as an optical isomer is rotates plane polarized light to the right and also an origin for the D designation. Glucose is also called blood sugar as it circulates in the blood at a concentration of 65-110 mg/dL of blood",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 52,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "L-glucose",
+      "content": "L-glucose is a short form of Levorotatory-glucose. It is one of the two stereoisomers of glucose (the other is D-glucose). Compared with D-glucose, the L-glucose is less biologically active and less common. In higher forms of organisms, the L-glucose is not produced naturally.\n\nAn L-stereoisomer of glucose molecule, which is comparatively less biologically active than D-glucose, and one that rotates the plane polarized light in an anticlockwise direction (as opposed to D-glucose that rotates it in clockwise direction)\n\nL-glucose cannot be used as a source of energy in cellular respiration. That is because hexokinase cannot phosphorylate it during glycolysis. Burkholderia caryophylli, though, has the enzyme D-threo-aldose 1-dehydrogenase that enables the oxidation of L-glucose.1",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 53,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Steroisomers of Glucose ",
+      "content": "Steroisomers of Glucose includ\n1. D-glucose\n2. L-glucose ",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 54,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Properties of monosaccharides ",
+      "content": "1. Colorless\n2. Crystalline solid\n3. Soluble in water, and insoluble in non polar solvent,\n4. They can be in open or ring chain form",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 55,
+      "boxId": 4,
+      "subBoxId": 7,
+      "title": "Steroisomers ",
+      "content": "Stereoisomers are molecules that share the same molecular formula and arrangement of atoms, but differ from one another in 3-dimensional space, or in their spatial arrangement \n\nAnd it is divide into optical isomer and geometric isomer\n\nOptical is further divided into \nEnantiomers and Diastereomer",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 56,
+      "boxId": 4,
+      "subBoxId": 7,
+      "title": "Enantiomers ",
+      "content": "Enantiomers\n\nEnantiomers are non-superimposable mirror images of each. Enantiomerism is shown by the chiral molecules. They have four different groups attached to the central chiral carbon. Enantiomers are asymmetrical molecules and have the tendency to rotate plane-polarized light in opposite directions.",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 57,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Types of monosaccharides ",
+      "content": "Glucose, frutose, ribose, galactose, ribose",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 58,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Haworth projection ",
+      "content": "Haworth projection formulae is a structural representation of cyclic structure of monosaccharides either in pyranose or furanose form.",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 59,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Hemiacetal ",
+      "content": "A hemiacetal is forms when an aldehyde reacts with an alcohol. ",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 60,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Fischer projection ",
+      "content": "In chemistry, the Fischer projection, devised by Emil Fischer in 1891, is a two-dimensional representation of a three-dimensional organic molecule",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 61,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "How ring chain are formed from open chain",
+      "content": "Ring chain (hawel projection) is formed from open chain by the nucleophilic addition reaction between aldehydes in carbon 1 and hydroxyl group in carbon 5, in which the oxygen in hydroxyl group interact with carbon atom in the aldehyde by giving it one of its lone pair electron, and hydrogen from the hydroxyl group is transferred to bind with in the carbonyl group, which however the in the formation of hemiacetal (if it is ketone it will form hemiketal). ",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 62,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Furanose & pyranoses",
+      "content": "When monosaccharides form five sided ring chain it is called FURANOSE e.g frutose, ribose . when six sided ring chain is formed is called PYRANOSES e.g glucose, galactose ",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 63,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Diastereomeric anomers of Glucose",
+      "content": "They are\n alpha D-glucose :-: the hydroxyl group in the Carbon 1 and hydroxyl group on carbon 4 are on the same sides\nHence called alpha D-glucopyranose\n\nBeta D-glucose :-: the hydroxyl group on carbon 1 and hydroxyl group on carbon 4 are on the same Opposite hence called\nBeta-D-glucopyranose",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 64,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Frutose ",
+      "content": "Frutose is a ketohexose, i.e it has a ketone group and 6 carbon atom, when it form it's Ring chain in which the ketone group in react with hydroxyl on carbon 5 forming hemiketal, a five sided ring is formed, hence called D-frutofuranose",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 65,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Disaccharides ",
+      "content": "Include\nSucrose, lactose(milk), maltose\nFormed by the conservation of two monosaccharides forming O-glycosidic bond",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 66,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Maltose",
+      "content": "Maltose is composed of two units of alpha D-glucose linked together through an alpha 1,4 glycosidic bond.\n\nHence it is called alpha-D-glucopyranosyl (1-4) alpha-D-glucopyranoside",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 67,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Sucrose",
+      "content": "Is formed by the condensation with the release of water of alpha D-glucose and beta D-glucose form apha-beta 1,3 glycosidic bond\n\nHence called alpha D-glucopyranosyl (1-3) beta-D-fructofuranose",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 68,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Lactose ",
+      "content": "Is formed by the condensation of beta D-glucose and beta D-galactose forming 2 beta 1,4 glycosidic bond\n\nHence called beta D-galacpyranosyl (1-4) Beta D-glucopyranoside",
+      "date": "14th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 69,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Polysaccharides ",
+      "content": "Structural polysaccharides are chitin and cellulose\n\nStorage Polysaccharides are glycogen and starch",
+      "date": "14th/Sep/2023",
+      "favorite": true
+    },
+    {
+      "id": 70,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Monosaccharides ",
+      "content": "Monosaccharides, also called simple sugars, are the simplest forms of sugar and the most basic units from which all carbohydrates are built.\nThey are usually colorless, water-soluble, and crystalline solids.\n\nIn biology and biochemistry, a monosaccharide is a simple sugar that constitutes the building blocks of a more complex form of sugars \n\nMonosaccharides are sugars that cannot be broken down by hydrolysis into other simpler sugars. Examples include glucose and fructose.",
+      "date": "15th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 71,
+      "boxId": 4,
+      "subBoxId": 7,
+      "title": "Cytoplasm & cytosol",
+      "content": "Cytoplasm is the liquid component of the cell which is all the contents of the cell except the nucleus. The cytosol is located in the cytoplasm and is made up of water, ions, molecules, and proteins. It contains various enzymes and biomolecules necessary for cell metabolism.\n\nCytosol is known as the matrix of the cytoplasm. It surrounds the cell organelles in eukaryotes. In prokaryotes, all the metabolic reactions occur here.",
+      "date": "15th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 72,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Chemical properties of Carbohydrates ",
+      "content": "(1). Osazone Formation \n(2). Benedict test\n(3). Oxidation ",
+      "date": "15th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 73,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Osazone test",
+      "content": "Osazone test is a chemical test used to detect reducing sugars. This test even allows the differentiation of different reducing sugars on the basis of the time of appearance of the complex. This test is also termed Phenyl hydrazine test based on the reagent used for this test.",
+      "date": "15th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 74,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Osazone ",
+      "content": "Osazone is an Oxidation product, and carbon 1&2 of aldose are required for reaction ",
+      "date": "15th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 75,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Osazone Formation ",
+      "content": "Osazone Formation: The reaction between three moles of phenylhydrazine and one mole of aldose produces a crystalline product known as phenylosazone",
+      "date": "15th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 76,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Benedict test ",
+      "content": "Benedict’s test is a chemical test that can be used to check for the presence of reducing sugars in a given analyte. Therefore, simple carbohydrates containing a free ketone or aldehyde functional group can be identified with this test. The test is based on Benedict’s reagent (also known as Benedict’s solution), which is a complex mixture of sodium citrate, sodium carbonate, and the pentahydrate of copper(II) sulfate.\n\nWhen exposed to reducing sugars, the reactions undergone by Benedict’s reagent result in the formation of a brick-red precipitate, which indicates a positive Benedict’s test\n\n\nWhen a reducing sugar is subjected to heat in the presence of an alkali, it gets converted into an enediol (which is a relatively powerful reducing agent). Therefore, when reducing sugars are present in the analyte, the cupric ions (Cu2+) in Benedict’s reagent are reduced to cuprous ions (Cu+). These cuprous ions form copper(I) oxide with the reaction mixture and precipitate out as a brick-red coloured compound.",
+      "date": "15th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 77,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Benedict Reagents ",
+      "content": "Benedict's reagent is a chemical reagent and complex mixture of sodium carbonate, sodium citrate, and copper(II) sulfate pentahydrate.",
+      "date": "15th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 78,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Oxidation of Carbohydrates ",
+      "content": "Carbohydrates are readily oxidized in presence of a reducing agent to form an acidic sugar (carboxylic acid) hence they called reducing sugar",
+      "date": "15th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 79,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Reduction of Carbohydrates ",
+      "content": "The carbonyl form of carbohydrates can be reduced to alcohol by a reducing agent sodium borohydride. It is a nucleophilic addition reaction where the C=O. group is reduced to alcohol by sodium borohydride. The resulting product is known as alditols. If the carbohydrate is an aldehyde, it is reduced to primary alcohol, but if it is a ketose, it forms secondary alcohol.",
+      "date": "15th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 80,
+      "boxId": 4,
+      "subBoxId": 6,
+      "title": "Biological significance of Carbohydrates ",
+      "content": "7",
+      "date": "16th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 81,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Parts of the humerus ",
+      "content": "(1). The upper end.\n(2). The shaft\n(3). The lower end",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 82,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "The upper end",
+      "content": "(1). The head\n(2). The neck\n(3). The greater tubercle\n(4). The lesser tubercle\n(5). Intertubercular sulcus or bicipital groove ",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 83,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Lower end",
+      "content": "(1). Medial epicondyle\n(2). Lateral epicondyle\n(3). Capitulum\n(4). Trochlea\n(5). Radius fossa\n(6). Coronoid fossa\n(7). alecranon fossa",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 84,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Shaft",
+      "content": "This longest part of the humerus extending between the upper and the lower end, it is cylindrical at the upper half and flattened at the lower half.\n\nIt has three border\n(Anterior, media, lateral)\n\nAnd three surface\n(Anteromedial, Anterolateral, posterior)",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 85,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Upper end :-: Head",
+      "content": "It is rounded and it faced medially backwards and upwards, it is covered by hyaline cartilage ",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 86,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Upper end :-: Neck",
+      "content": "Humerus has three neck\n(1). The anatomical neck :-: separates the head from the tubercle at the upper of the humerus and also it provides attachment to the capsule ligament of the shoulder joint.\n\n(2). Surgical neck :-: it is below the tubercle of the upper end and it is the weaker part of the upper end of the humerus because it is at this side that most humerus fracture occur hence it is called surgical neck.\n\n(3) morphological neck :-: it is the junction between the epiphysis and diaphysis of humerus and it is the true junction of the upper end and shaft of the humerus ,\nIt shows the position of the epiphyseal line",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 87,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Question on Humerus (upper end)",
+      "content": "1. Describe the location of the humerus.\n2. Humerus is divided into how many parts name them.\n3. List and explain the parts of the upper end of the humerus \n4. Which part of the humerus forms the glenohumeral joint\n5. How many neck is there is the humerus.\n6. Which of the neck separates the head and the tubercles\n7. The capsule ligament of the shoulder joint is attached to which of the neck\n8. The site where humeral fracture usually occur at upper end of the humerus.\n9. The jounction of the upper end and the shaft of the humerus is?\n10. Name the two tubercle at the upper end and describe their anatomical positions\n11. Name the point of muscles attachments of these tubercles \n",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 88,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Upper end :-: Greater tubercle ",
+      "content": "Is the most lateral part of the humerus, and it's posterosuperior part has three (upper, middle \nand lower)  flattened facet-like impression for the attachment of three muscle,  the supraspinous muscle, infraspinous muscle and the trees minor muscle (SIT) respectively.",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 89,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Upper end:-: lesser tubercle",
+      "content": "It's located medially at the upper end of the humerus, above the surgical neck. It provides attachment to the subscapularis muscle.",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 90,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Intertubercular sulcus or bicipital groove ",
+      "content": "This is a vertical groove that is between the two tubercle. \nIt contains\n1. The long head of the biceps enclosed in a synovial sheath\n2. The branch of ascending posterior circumflex humeral artery\n\nThree muscle are attached to the following part of the intertubercular sulcus\n\n1. Pectoralis major on the lateral lip of the groove\n2. Teres major on the medial lip of the groove\n3. Latissimus Dorsi on the floor of the groove \n\nA lady between two major\n\n",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 91,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Breast: description ",
+      "content": "The breast is a superficial, conspicuous and prominent located on the anterior thoracic wall. It extends horizontally from the lateral border of the sternum to the mid-axillary line. Vertically, it spans between the 2nd and 6th costal cartilages. It lies superficially to the pectoralis major and serratus anterior muscles.",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 92,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Breast: outline ",
+      "content": ":> Description & location\n:> related structure \n:> structure\n:> skin\n:> stroma\n:> parenchyma\n:> Arterial Supply\n:> Venous drainage\n:> Nerve supply\n:> lymphatic nodes\n:> lymphatic Drainage\n:> Clinical correlation \n",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 93,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Structure of the breast",
+      "content": "The can be structurally divided into\n1. Skin\n2. Stroma\n3. Parenchyma",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 94,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Skin",
+      "content": "This is the superficial coverings of the breast and it contains the following features\n1.nipple\n2. Areola ",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 95,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Skin :-' nipple ",
+      "content": "1. Nipple:-: this a conical projection bellow the center of the breast and normally located at the 4th intercostal space. It contains smooth muscle fibres that makes it stiff, erect or flattened. It is innervated by sensory nerve endings hence it is the most sensitive part of the breast and event get erected during sexual arousal ",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 96,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Skin:-: areola ",
+      "content": "This is a circular pigmented skin located at the base of the nipple, it contains a lot of modified sebaceous glands that secrets oily secretions that lubricate the nipple and the areola, during pregnancy this sebaceous glands enlarged to form MONTGOMERY'S TUBERCULES",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 97,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Stroma",
+      "content": "The stroma consist of fatt and connective tissues, and it forms the supporting framework of the breast, \nFat give the breast it's soft and succulent nature\nThe connective tissues condensed to form fibers strands called the suspensory ligament of cooper, they are arranged in a radial fashion, they connect the demis of the overlying skin to the duck of the breast and the pectoral facial, they maintain the protuberance and firmness of the breast.",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 98,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Parenchyma ",
+      "content": "Parenchyma contains the mammary gland which is about 15 to 20 arranged in radial fashion and converges at the nipple it secrets milk that feeds a new born baby. Each gland is drained by a duck called lactiferous duct, near its termination each ducts expand into lactiferous sinus which serves as a temporal reservoir of milk during lactation.",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 99,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Artery supply",
+      "content": "The breast are supplied oxygenated blood by the following artery\n\n1. Internal thoracic artery or internal mammary artery through it's branches which pierced through the second , third and fourth intercostal spaces\n\n2. Axillary artery which supply blood through it's branches which are, acromothoraxic artery, superior thoracic artery and lateral thoracic artery .\n\n3. Posterior intercostal artery ",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 100,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Venous drainage",
+      "content": "This is carried out by the following vein\n1. Axillary vein\n2. Posterior intercostal vein \n3. Internal thoracic vein",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 101,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Nerve Supply",
+      "content": "Nerve Supply is primary somatosensory. They are derived from the 2nd to 6th intercostal nerve through the lateral and anterior cutaneous branch. \n\nThe sensory nerve at the areola and the nipple play an important role in stimulating the secretion of milk in response to suckling by infant.\nThe secretion of milk is done by a hormone called prolactin secreted by pituitary gland.",
+      "date": "18th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 102,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Lymp",
+      "content": "Lymp ",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 103,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Lymphatic Drainage ",
+      "content": "(lymph are basically fluids that comes out of the capillaries of the artery during materials exchange with the cell of the breast) \nThese lymph are drained in to the following lymph groups if nodes\n\n1. Axillary lymph nodes ( and is divided into five lymph node \n(i). Lateral or humeral axillary lymph nodes\n(ii). Anterior (pectoral)\n(iii). posterior (subscapular)\n(iv). central\n(v). apical nodes. The apical nodes are the final common pathway for all of the axillary lymph nodes. )\n\n2. Internal mammary nodes [lying along the internal thoracic vessels]\n\n3. Supraclavicular node [ lying above the clavicle]\n\n4. Posterior intercostal Nodes [ lying in the posterior part of the intercostal spaces in front of the head of the ribs]\n\n5. Cephalic (deltopectorial ) nodes [lying in the deltopectorial groove]",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 104,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Axilla",
+      "content": "The axilla is an anatomical region under the shoulder joint where the arm connects to the shoulder. It contains a variety of neurovascular structures, including the axillary artery, axillary vein, brachial plexus, and lymph nodes.",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 105,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Part of breast lymphatic Drainage",
+      "content": "Lymphatic Drainage is divided into two\n1. Superficial drainage which drains the skin except the nipple and the areola\n2. Deep drainage: drains the parenchyma of the breast including the nipple and the areola of the breast",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 106,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Plexus",
+      "content": "In neuroanatomy, a plexus is a branching network of vessels or nerves. The vessels may be blood vessels (veins, capillaries) or lymphatic vessels.",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 107,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Sappey plexus",
+      "content": "The lymp that drain deep of the areola are called subareolar plexus of sappey and they drain into the anterior group of the axillary node.",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 108,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Method of drainage ",
+      "content": "1. Most lymph from the lateral quadrant of the breast drain into the anterior axillary nodes\n2. Most from the medial quadrant drain into the internal mammary nodes\n3. Few from lower lateral quadrant drains into the posterior intercostal Nodes\n4. Few from lower medial quadrant drains into subdiaphragmatic and subpectoneal lymph plexus\n5. Lymph nodes from the deep surface of the breast pierced through the pectoral major and clavipectoral facial and drain into the apical axillary nodes\n",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 109,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Percentage drainage ",
+      "content": "74% of lymph are drained into the axillary node\n\n20% into the internal mammary nodes\n\n5% into the posterior intercostal nodes",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 110,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Milk link/ridge of Schitz",
+      "content": "The breast develops from and ectodermal thickening called the milk line/ridge of Schultz which appears in embryo and it extend from the axilla to the groin.\nIn lower animal the mammary gland developed along the region but in human it degenerate and disappear except the one at the pectoral region which developed into the mammary gland",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 111,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Clinical: Polythelia",
+      "content": "(also called supernumerary nipples, in the case of multiple nipples) is a condition in which you have one or more extra nipples on your body",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 112,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Clinical: Retracted/inserted nipples ",
+      "content": "This occur when the nipple fails the develope.from ectodermal pit, the nipple faces inwardly instead of outwardly unless when stimulated, making I difficult to breastfeed a child, secondly the nipple is prone to infection",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 113,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Clinical : Polymastia",
+      "content": "This the development of more than one breasts along the milk ridge",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 114,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Clinical: Gynecomastia ",
+      "content": "This is the development of breast in male mostly at puberty due hormonal imbalance ",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 115,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Pectoralis major & minor",
+      "content": "Pectoralis major is a thick, fan-shaped or triangular convergent muscle, which makes up the bulk of the chest muscle. It lies under the breast. It serves to flex, extend, and rotate the humerus, the long bone of the upper arm. Pectoralis minor is a thin, triangular muscle located beneath the pectoralis major.",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 116,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Structure associated to Breast ",
+      "content": "1. Pectoral facial\n2. Muscle\na. Pectoralis major\nb. Serratus anterior\nc. External obligue ",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 117,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Pectoral facial ",
+      "content": "The pectoral fascia is a thin lamina, covering the surface of the pectoralis major and it's allows  smooth movement of the breast ",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 118,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Retromammary space ",
+      "content": "This is the space between the pectoral facial and the breast filled with loose areola tissue that allow/enable the free movement of the breast over the pectoral facial",
+      "date": "19th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 119,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Cooper's ligament ",
+      "content": "Cooper's ligaments (also known as the suspensory ligaments of Cooper and the fibrocollagenous septa) are connective tissue in the breast that help maintain structural integrity. They are named for Astley Cooper, who first described them in 1840. Their anatomy can be revealed using Transmission diffraction tomography.",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 120,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Question ",
+      "content": "1. Which part of the breast forms it's supporting framework \n\n2. What are the three main artery that supply blood to the breast \n\n3. Name the branches of Axillary artery,\n\n",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 121,
+      "boxId": 2,
+      "subBoxId": 9,
+      "title": "Monemic for Actery supply ",
+      "content": "The major artery that supplies blood to the breast are API\n\nA branches into ASL thoracic arteries ",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 122,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Spination & protonation",
+      "content": "Researching ",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 123,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Membrane potential ",
+      "content": "Membrane potential (also transmembrane potential or membrane voltage) is the difference in electric potential between the interior and the exterior of a cell\n\nMembrane potential is a potential gradient that forces ions to passively move in one direction: positive ions are attracted by the 'negative' side of the membrane and negative ions by the 'positive' one.\n\nMembrane potentials in cells are determined primarily by three factors: 1) the concentration of ions on the inside and outside of the cell; 2) the permeability of the cell membrane to those ions (i.e., ion conductance) through specific ion channels; and 3) by the activity of electrogenic pumps (e.g., Na+/K+-ATPase and Ca++ transport pump",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 124,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Resting membrane potential ",
+      "content": "This is the relatively stable and ground value of the membrane or transmembrane voltage/potential of an unexcited or resting cells \n\nOr\nThe resting membrane potential (RMP) is the electrical potential difference across the plasma membrane of a cell when the cell is at rest ",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 125,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Sodium concentration ",
+      "content": "Na+ is a positively charged ion that has an intracellular concentration of 14 mM, an extracellular concentration of 140 mM, and an equilibrium potential value of +65 mV.",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 126,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Factors that determine the membrane potential ",
+      "content": "1. The concentration of ions in and out of the cell,\n\n2. The activity of the electrogenic pump e.g Na+/K+ ATPase and Ca+ transport pump which maintains the concentration of ions across the membrane .\n\n3. Permeability of cell membrane to ions(Na+, K+, Ca+) through specific channels\n\n4. The presence of fixed and non-diffusable Negatively charged protein Molecules.",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 127,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Voltage Clamp ",
+      "content": "The voltage clamp is an experimental method used by electrophysiologists to measure the ion currents through the membranes of excitable cells, such as neurons, while holding the membrane voltage at a set level.[1] A basic voltage clamp will iteratively measure the membrane potential, and then change the membrane potential (voltage) to a desired value by adding the necessary current. This \"clamps\" the cell membrane at a desired constant voltage, allowing the voltage clamp to record what currents are delivered. Because the currents applied to the cell must be equal to (and opposite in charge to) the current going across the cell membrane at the set voltage, the recorded currents indicate how the cell reacts to changes in membrane potential.[2] Cell membranes of excitable cells contain many different kinds of ion channels, some of which are voltage-gated. The voltage clamp allows the membrane voltage to be manipulated independently of the ionic currents, allowing the current–voltage relationships of membrane channels to be studied.[3]\n\nThe voltage clamp operates by negative feedback. The membrane potential amplifier measures membrane voltage and sends output to the feedback amplifier; this subtracts the membrane voltage from the command voltage, which it receives from the signal generator. This signal is amplified and output is sent into the axon via the current-passing electrode.",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 128,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Na+/K+ ATPase",
+      "content": "Na+/K+-pump is an electrogenic transmembrane ATPase located in the outer plasma membrane of cells. The Na+/K+-ATPase pumps 3 sodium ions out of cells while pumping 2 potassium ions into cells.\n\nThe sodium–potassium pump is found in many cell (plasma) membranes. Powered by ATP, the pump moves sodium and potassium ions in opposite directions, each against its concentration gradient. In a single cycle of the pump, three sodium ions are extruded from and two potassium ions are imported into the cell.",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 129,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Function of Na+/K+ pump",
+      "content": "1. The Na+K+-ATPase pump helps to maintain osmotic equilibrium and membrane potential in cells.\n\n2.  The sodium and potassium move against the concentration gradients.\n\n3.  The Na+ K+-ATPase pump maintains the gradient of a higher concentration of sodium extracellularly and a higher level of potassium intracellularly.\n\n5.:Maintenance of resting membrane potential (across the neuronal membrane).\n\n6. Absorption of glucose from the gut and renal tubules (symport).\n\n7. Maintenance of cellular osmolarity.",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 130,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Cathode Ray oscilloscope ",
+      "content": " The cathode-ray oscilloscope (CRO) is a common laboratory instrument that provides accurate time and aplitude measurements of voltage signals over a wide range of frequencies\n\na CRO is a device that is used for measuring and displaying different forms of electrical signals.",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 131,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "RMP measurements ",
+      "content": "The resting potential of a cell can be measured using a device called, cathode Ray oscilloscope\nThe value of the RMP is about -65mv to -85mv\n\nRMP can be measured using the intracellular recording method, which involves the use of two microelectrode, the recording electrode  penetrates inside the cell, while the reference electrode is placed outsider the cell, and it now connected to a voltameter",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 132,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Outline",
+      "content": "1. Membrane potential definition\n2. Factor that determines the membrane potential\n3. Measurements of the membrane\n4. Na+/K+ pump\n5. Resting potential\n6. Measurements of RMP,\n7. Ionic base of RMP\n8. AP\n9.ionic base of AP\n10. Measurements of AP\n11. Electrotonic spread\n12. Saltatory conduction\n13. Firing level \n14. Characteristics of AP",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 133,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Ionic base of RMP",
+      "content": "RMP of cell is achieved by the following process\n\n1. The activity of the Na+/K+ ATPase which pump out 3Na+ and pump in 2K+ simultaneously. Due to the unequal movement of ion across the membrane creates a deficit positive charge inside the cell generating a voltage of about -4mv, and it also create a concentration gradient of ions across the cell membrane.\n\n2. Due to the activity of the Na+/K+ pump the conc of K+ becomes higher intracellularly hence K+ will tend to move out of the cell through the leaky K+ channel along its concentration gradient leaving behind negative protein increasing the negativity of the intracellular to about -90mv\n\n3. Na+ being highly concentrated outside move into the cell through the leaky Na+ ion channel a long it concentration gradient hence reducing the negativity of the cell intracellular fluid to about -86mv\nHence summing it up give a RMP of -70mv.",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 134,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Action potential ",
+      "content": "AP is a series of electrical changes that occur across the membrane of a cell when stimulated, or a brief positive change In the membrane Potential of the cell when stimulated ",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 135,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Mono & bi phasic AP",
+      "content": "Monophasic Action Potential: To record a monophasic action potential, one of the recording electrodes should be in ECF and the other in ICF. For biphasic action potential recording, both the recording electrodes can be placed either in ECF or ICF.",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 136,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Method of AP measurements ",
+      "content": "1. Intracellular method (monophasic)\n2. Extracellular (biphasic)",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 137,
+      "boxId": 5,
+      "subBoxId": 11,
+      "title": "Characteristics of AP",
+      "content": "1. It is propagative\n2. It has two phase, depolarization and repolarization\n3. It obeys All or none law\n4. It undertake long distance travel\n5. It is not trigered by Stimulus summation\n6. It has refractory periods\n7. It is conducted with out decrements ",
+      "date": "20th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 138,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Diaphysis & Epiphysis ",
+      "content": "The diaphysis ( PL : diaphyses) is the main or midsection (shaft) of a long bone. It is made up of cortical bone and usually contains bone marrow and adipose \n\nThe epiphysis is the expanded or rounded end portion of a long bone. It has red bone marrow-producing erythrocytes\n\nThe junction between the epiphysis and diaphysis of humerus is called morphological neck",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 139,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Shaft:-: Anterior Border",
+      "content": "Shaft of Humerus has three border\n\n1. Anterior border:-: extends from the lateral lib of the intertubercular sulcus through the anterior margin of the deltoid tuberosity where it becomes smooth and rounded\nDown to the radial fossa.",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 140,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Shaft :-: Medial border ",
+      "content": "Medial border provide attachment to three muscle. \n[ medial intermuscular septum, coracobrachialis, pronator teres]\n\n2. Medial Border :-: extends from the medial lib of  intertubercular sulcus to the medial epicondyle,\n\nThe lower part of this border is sharp and is called medial supracondylar ridge which provides attachment to medial intermuscular septum \n\nThe middle of the border has a rough strip which provides attachment to coracobrachialis muscle.\n\nAbove the medial epicondyle theirs a narrow area that provides origin to the head of Humerus of pronator teres",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 141,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Shaft :-: lateral border",
+      "content": "\nThe lower part of the Lateral border forms the lateral supracondylar ridge which provides attachment to lateral intermuscular septum.\n\nAbove the lateral supracondylar ridge is ill defined but traceable to the posterior part of the greater tubercle.",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 142,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Shaft :-: AnteriorLateral Surface",
+      "content": "Lies between the Anterior border and the lateral border, little bit above the middle of the border is a v-shaped tuberosity called deltoid tuberosity which provides attachment to deltoid muscle ",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 143,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Shaft :-: Anteriormedial surface ",
+      "content": "Lies between the Anterior border and medial border, upper part of the surface is the floor of the intertubercular sulcus. Above the middle near the medial border is a nutrient foramen directed downwards",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 144,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Shaft :-: posterior surface ",
+      "content": "Lies between the medial border and the lateral border, upper one third of the surface is an obligue rigde directed downwards and laterally, it provide attachment to the lateral head of tricep brachai.\nIt's middle one third is crossed by radial groove which relates with the radial nerve ",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 145,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Lower End",
+      "content": "The lower end of the humerus is flattened posteriorly and anteriorly but expanded side by side.\nIs divided into 7 parts\n\n1. Capitulum :-: a rounded convex projection laterally, it articulate with the head of radius.\n\n2. Trochlea :-: a pulley shaped projection medially, it articulate with the trochlear notch of ulna.\n\n3. Ulnar Nerve :-: lies on the posterior surface of the medial epicondyle \n\n4. Medial epicondyle :-: it is a bony projection on the medial side of the lower end of humerus, its anterior surface is a common flexor origin to the superficial flexors of the forearm\n\n5. Anteriolateral part of Lateral epicondyle :-: is a bony projection small than the medial epicondyle on the lateral side of the lower end of the humerus, \nThe superficial extensor muscles have their common origin on the AnteriorLateral part of the lateral epicondyle.\n\n6. Posterior part of lateral epicondyle provides are for the origin of anconeus muscle\n\n7. Coronoid fossa :-: it is above anterior aspect the trochlea, it accommodate the coronoid process of ulna during flexion of the elbow.\n\n8. Radial fossa :-: it is a depression above the anterior aspect of the capitulum that accommodate the head of radius when the elbow is flexed \n\n9. Alecranon fossa (latin ulna head) :-: it is a depression above the posterior aspect of the trochlea that accommodate the alecranon process of ulna when the elbow is extended.",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 146,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Amino acid definition ",
+      "content": "Amino acid is an organic compound that forms the monomeric unit of protein structure, whose structure has an amino group, carboxylic group, hydrogen atom and R-side chain attached to a central carbon called Alpha carbon",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 147,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Peptides",
+      "content": "Two amino acid combines to form peptides/dimer through the formation of peptides bond",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 148,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Dimer,trimer,tetramer.....",
+      "content": "Four amino acid forms tetramer",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 149,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Assumetric carbon/chiral center",
+      "content": "This is the carbon atom attached to four different group/atom,\n\nAll the amino acid has chiral center except glycine ",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 150,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Assumetric carbon/chiral center",
+      "content": "This is the carbon atom attached to four different group/atom,\n\nAll the amino acid has chiral center except glycine ",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 151,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Steroisomerism of Amino acid ",
+      "content": "All amino acids except for glycine are stereoisomers. This means that there are mirror images of their structure. It is just like how we have left hands and right hands. These are labeled L (left-handed) and D (right-handed) to distinguish the mirror images.\n\nBuilding blocks of proteins. Only L-amino acids are polymerized to form proteins, though both D-amino acids and non-L-amino acids found in nature.\n\nStereoisomers are designated D (dextro-rotatory) or L (levo-rotatory) according to the direction in which the crystalline forms rotate polarized light, to the ...",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 152,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Threonine",
+      "content": "Threonine has two chiral centers and therefore four possible stereoisomers. The isomers other than Thr (D-, L-allo-, and D-allo-threonine) are rare in nature and have no value, nutritional or otherwise. These days, most Thr is synthesized rather than being obtained from natural proteins.",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 153,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Optical activity ",
+      "content": "Except glycine, all amino acids have asymmetric (chiral) carbon so they are optically active. Some amino acids are dextrorotatory and some levo rotatory depending upon the rotation of plane polarized light towards right or left direction respectively.\n\nThe optical activity of proteins is due to two factors — the asymmetry of the polypeptide chain and the asymmetry at the α-carbon atoms in the amino acid residues.",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 154,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Standard amino acid ",
+      "content": "Amino acids typically are classified as standard or nonstandard, based on the polarity, or distribution of electric charge, of the R group (side chain). The 20 (or 21) amino acids that function as building blocks of proteins are classified as standard.",
+      "date": "21st/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 155,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Classification of Amino acid",
+      "content": "Base on structure, it classified into 7\n\n1. Aliphatic - [ Gly Ala Val Leu Iso ][ GAVLI ] \n2. Hydroxyl - [ Ser The Tyr ] [ STT ]\n3. Sulphur - [ Cye Met ] [CM]\n4. Acidic - [ Asp Glu ] [ AG ]\n5. Basic - [ Lys Arg His ] [ LAH ]\n6. Aromatic - [ Phe Tyr Try ] [ PTT ]\n7. Imino Acid - [ Pro  ] [ p ]",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 156,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Outline ",
+      "content": "1. Amino Acid Definition\n2. Function of protein \n3. 20 amino acids & standard amino acid\n4. Classification of amino acid base on structure\n5. Alpha carbon & asymmetric carbon\n6. Steroisomerism & optical \nactivity of amino acid\n7. Pka value of Amino & carboxyl group\n8. Essential & non essentials amino acid\n9. Function of protein\n10. Characteristics of protein \n11. Peptides bond & characteristics \n12. Hydrolysis of peptides bond",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 157,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Function of protein ",
+      "content": "1. Act as an enzyme [ e.g lipase (which is found in the duodenum that covert lipid to fatty acid and glycerol),  Maltese(convert maltase to glucose) etc. ]\n\n2. Chemical signalling (hormone. Insulin, glucagon, thyrocalcitonin, pituitary hormones, and hypothalamic hormones are examples of protein hormones. They are also known as polypeptide hormones.)\n\n3. Storage functions (\nSure thing! Some examples of storage proteins include ferritin, casein, and ovalbumin. Ferritin stores iron in our body, while casein is a protein found in milk that serves as a source of amino acids for newborns. Ovalbumin, on the other hand, is a protein found in egg whites that provides nutrients for the developing embryo. These proteins are like little storage units for important substances!)\n\n5. Protection (Antibodies\nSome examples of proteins that are antibodies include immunoglobulin G (IgG), immunoglobulin A (IgA), immunoglobulin M (IgM), and immunoglobulin E (IgE). They play a crucial role in our immune response! \n\nFor example, IgG, the most common antibody, is present mostly in the blood and tissue fluids, while IgA is found in the mucous membranes lining the respiratory and gastrointestinal tracts.\n)\n\n6. Contractile function (myosin)\n\n7. Structural (Collagen is the main structural protein in the extracellular matrix. found throughout the body, particularly in skin, bones, ligaments, tendons, teeth, and connective tissues. As the main component of connective tissue, it is the most abundant protein in mammals, making up from 25% to 35% of the whole-body..)\n\n8. Transport (hemoglobin)\n",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 158,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "PH & PKa",
+      "content": "pKa indicates whether an acid is a strong acid or a weak acid. pH indicates whether a system is acidic or alkaline. If the pKa of an acid is high, it is a weak acid, and if the pKa of an acid is low, it is a strong acid.",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 159,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Pka",
+      "content": "The pH value at which a chemical species will take or donate a proton is known as the pKa.",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 160,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Pka of Amino group",
+      "content": "The PKa value of Amino group(basic form) is 9.5 and above, while that of quaternary ammonium group(acidic form) is below 9.5",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 161,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Pka carboxyl",
+      "content": "The PKa value of carboxyl group (acidic form) is 2-5 , but that of carboxylate group(basic form) is above 5 ",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 162,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Most Reactive Amino acid",
+      "content": "Amino acid with basic and acidic side chain are often the most reactive and often part of the enzyme active site where the reaction occurs",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 163,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Essential and non essentials Amino acid",
+      "content": "Essential Amino acid are those ones that can't be Synthesized in the body, but gotten externally,\n\nNon-essential amino acid can be Synthesized in the body",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 164,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Peptides bond",
+      "content": "A peptide bond, also called an eupeptide bond, is a chemical bond that is formed by joining the carboxyl group of one amino acid to the amino group of another.\n\nDuring the formation of this bond, there is a release of water (H2O) molecules ( hydrogen from alpha amino group and hydroxyl moiety from carboxyl group. A peptide bond is usually a covalent bond (CO-NH bond), and since the water molecule is eliminated, it is considered a dehydration process\n\nPeptide is a Greek word that means “digested”. A peptide is a short polymer of amino acid monomers linked by an amide bond.",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 165,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Characteristics of peptides bond",
+      "content": ". Peptide bonds are strong with partial double bond character:\n\nThey are not broken by heating or high salt concentration.\nThey can be broken by exposing them to strong acids or bases for a long time at elevated temperature, and also by some specific enzymes (digestive enzymes).\n2. Peptide bonds are rigid and planar bonds; therefore, they stabilise protein structure.\n\n3. Peptide bond contains partial positive charge groups (polar hydrogen atoms of amino groups) and partial negative charge groups (polar oxygen atoms of carboxyl groups).",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 166,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Form of amino acid ",
+      "content": "Dipeptide = contains 2 amino acid units.\n\nTripeptide = contains 3 amino acid units.\n\nTetrapeptide = contains 4 amino acid units.\n\nOligopeptide = contains not more than 10 amino acid units.\n\nPolypeptide = contains more than 10 amino acid units, up to 100 residues.\n\nMacropeptides = made up of more than 100 amino acids",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 167,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Degradation of peptides bond ",
+      "content": "The degradation of peptide bonds involves a reaction in which the breaking of the peptide bonds between the molecules occurs. Hydrolysis (addition of water) is the reaction used for the degradation of the peptide bond. During the reaction, they will emit Gibbs energy in an amount of 8-16 kJ/mol. But generally, this is a very slow process having a half-life of 350 to 600 years per bond at a temperature of 25oC. Enzymes like proteases are used as the catalysts for this process.",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 168,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Peptides bond structure ",
+      "content": "A peptide bond is a planar, trans and rigid configuration. It also shows a partial double bond character. The coplanarity of the peptide bond denotes the resonance or partial sharing of two pairs of electrons between the amide nitrogen and carboxyl oxygen.\n\nThe atoms C, H, N, and O of the peptide bond lie in the same plane, like the hydrogen atom of the amide group and the oxygen atom of the carboxyl group, which are trans to each other.\n\nLinus Pauling and Robert Corey are the scientists who found that the peptide bonds are rigid and planar.",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 169,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Protein Structure ",
+      "content": "Primary Structure\nSEC",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 170,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Primary Structure of Protein ",
+      "content": "This is the Simplest level of protein structure which is a linear sequence of amino acid linked through the formation of a peptide bond(a condensation /dehydration reaction) to form a polypeptides. Conventionally it begins with an amino-terminal end to a carboxylic terminal end.\n\nHowever the sequence at which these amino acid are linked is determined by the DNA that encoded the protein hence the structure and function of the protein is determined by the sequence.",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 171,
+      "boxId": 6,
+      "subBoxId": 13,
+      "title": "Sickle cell anemia ",
+      "content": "Hemoglobin which is a protein pigment of the RBC that transport oxygen in the body, it's molecules is made of two alpha chain and two Beta chains of polypeptides, each of these subunits is made of 150 amino acid, total of 600,\n\nWhen the glutamic amino acid , a sixth amino acid in the Beta chains is replaced by valine amino acid it's affect the structure and function of the protein, it distort the disc-shaped structure of the blood to crescent shape forming \"sickle RBC\" which prevents a normal flow through the blood vessels causing SICKLE CELL ANEMIA ",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 172,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Secondary Structure ",
+      "content": "This a local, repeating folded structure of polypeptides long chain, which is due to the interaction between the Carboxyl group and the amine group of the peptide bonds stabilized by hydrogen bond",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 173,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Secondary Structure:-: Alpha helix",
+      "content": "In an α helix, the carbonyl (C=O) of one amino acid is hydrogen bonded to the amino H (N-H) of an amino acid that is four down the chain. (E.g., the carbonyl of amino acid 1 would form a hydrogen bond to the N-H of amino acid 5.) This pattern of bonding pulls the polypeptide chain into a helical structure that resembles a curled ribbon, with each turn of the helix containing 3.6 amino acids. The R groups of the amino acids stick outward from the α helix, where they are free to interact.",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 174,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Beta pleated sheet",
+      "content": "In this arrangement, the polypeptide chains are stretched out beside one another and then bonded by intermolecular H-bonds\n\nIn a β pleated sheet, two or more segments of a polypeptide chain line up next to each other, forming a sheet-like structure held together by hydrogen bonds. The hydrogen bonds form between carbonyl and amino groups of backbone, while the R groups extend above and below the plane of the sheet\n3\n3\n cubed. The strands of a β pleated sheet may be parallel, pointing in the same direction (meaning that their N- and C-termini match up), or antiparallel, pointing in opposite directions (meaning that the N-terminus of one strand is positioned next to the C-terminus of the other).",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 175,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Hydrolysis of peptides bond ",
+      "content": "Hydrolysis of peptides bond is simply the breaking of the bond by the addition of water molecules, this can only be done under the following conditions\n1. Using a strong acid and base\n2. Elevated temperature\n3. Apply the above over a long period of time\n4. This bone can be broken using a specific enzyme",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 176,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Characteristics of peptides bond",
+      "content": "1. It's a partial double bond characters because the bond distance between Carbon from the Carboxyl group and Nitrogen from the amino group is 1.32 Angstroms which is lower than single bond distance between C-N which is 1.4g Angrostrom and more than the double bond distance between C-N which is 1.27g Angrostrom hence it is neither single or double bond\n\n2. It is rigid and planar\n\n3. Rotation about the bond is not possible because of it's rigidity\n\n4. Trans-configuration, this means that the R side Chain of the two condensing amino acid residue is on the opposite to each other about the peptide bond\n\n",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 177,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Outline 2",
+      "content": "1. Primary protein\n2. Secondary Structure\n3. Tertiary structure\n ",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 178,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Tertiary Structure ",
+      "content": "Protein tertiary structure is the three dimensional shape of a protein. The tertiary structure will have a single polypeptide chain \"backbone\" with one or more protein secondary structures, \n\nThe tertiary structure of a protein refers to the overall three-dimensional arrangement of its polypeptide chain in space. It is generally stabilized by \n1.outside polar hydrophilic hydrogen and\n2.  ionic bond interactions, and internal hydrophobic interactions between nonpolar amino acid side chains\n\nThe tertiary structure is the structure at which polypeptide chains become functionalThe tertiary structure is the structure at which polypeptide chains become functional. At this level, every protein has a specific three-dimensional shape and presents functional groups on its outer surface, allowing it to interact with other molecules, and giving it its unique function.",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 179,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Tertiary:  Stabilizing force",
+      "content": "They of two types of force that stabilize the tertiary structure of protein\n1. Covalent [ disulphide bond ]\n2. Non-covalent [ \n a. hydrogen bond, \n b. hydrophobic interaction and \n c.  ionic/electrostatic bond\n ]",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 180,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Tertiary: Disulphide Bond",
+      "content": "This occur between two SH ( sulfhydryl group) found in the side chain of Sulphur amino acid e.g cysteine amino acid\n\nIn the formation of this bond hydrogen atom from each SH group of the two amino acid side chain are displaced while the Surphur combined together \n\nSignificance of This disulphide bond\n1.  It prevents Denaturation of the protein and it moves to extracellular fluid of the cell for functional purposes ",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 181,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Tertiary: protein Disulphide Isomerase ",
+      "content": "Protein disulfide isomerase, or PDI, is an enzyme in the endoplasmic reticulum in eukaryotes and the periplasm of bacteria that catalyzes the formation and breakage of disulfide bonds between cysteine residues within proteins as they fold",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 182,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Tertiary: Hydrogen Bond",
+      "content": "It is form between an hydrogen donor e.g\n1. NH -  from \n    I. Peptides bond\n    ii. Imidazole ring of Histidine\n        Side Chain\n\n2. NH2 - from lysine and Arginine side chain\n\n3. OH - from serine & threonine side chain\n\nAnd Hydrogen Acceptor e.g\n1. COOH ( carboxyl) — from peptide bond\n\n2. COO– ( carboxylate) — from side chain of Aspartate and Glutamate\n\n",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 183,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Tertiary: hydrophobic Interaction ",
+      "content": "This occurs between the hydrophobic side chain of e.g\n1. Valine\n2. Leucine\n3. Isoleucine\n(MAINLY ALIPHATIC AMINO ACID)\n\nIn the body this hydrophobic side chain are always In close proximity due to the polar environment. Hence they interact with one another. This also helps in the stabilization of the tertiary structure .\n\nThey are normally found in the core of compact globular proteins",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 184,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Tertiary: ionic bond ",
+      "content": "This is between positively charge amino acid side chain e.g Lysine & Arginine and electronegative side chain of amino acids e.g Aspartate & Glutamate ",
+      "date": "22nd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 185,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Significance of tertiary structure ",
+      "content": "Tertiary Structure is the structure at which a proteins becomes functional, \nHence it is essential for the biological activity of protein\n\nE.g in Ribonuclease an enzyme has two Histidine located at the 12th and 119th position of amino acid sequence, although they far from each other due to the 3D folding (tertiary structure) of the enzyme they were able to come together to form the active site of the enzyme.",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 186,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Domain ",
+      "content": "Domains are the structural, functional or evolutionary units of proteins. Proteins can comprise a single domain or a combination of domains. In multi-domain proteins, the domains almost always occur end-to-end, i.e., one domain follows the C-terminal end of another domainIn the three-dimensional structure of proteins,\n\n domains are stably folded structural units that retain molecular function independent of the rest of the larger\n\nEach domain can contain maximum of 300 amino acid and minimum of 25 amino acid",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 187,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Quaternary structure ",
+      "content": "The quaternary structure of a protein is the association of several protein chains or subunits into a closely packed arrangement\n\nQuaternary protein structure, on the other hand, refers to the arrangement of multiple polypeptide chains, or subunits, in a protein complex. In quaternary structure, each subunit may have its own tertiary structure, and the subunits interact with each other through non-covalent bonds to form a stable protein complex.\n\nQuaternary structure exists in proteins consisting of two or more identical or different polypeptide chains (subunits). These proteins are called oligomers because they have two or more subunits. The quaternary structure describes the manner in which subunits are arranged in the native protein.\n\nTertiary structure is the overall 3D structure of the protein. Quaternary structure is the overall structure that arises when separate protein chains aggregate with self to form homodimers, homotrimers, or homopolymers OR aggregate with different proteins to form heteropolymers\n\nExamples of proteins with quaternary structure include hemoglobin, DNA polymerase, ribosomes, antibodies, and ion channels.",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 188,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Quaternary: Stabilizing force",
+      "content": "Quaternary structure describes the partial relationship between the subunits of protein through the following non-covalent bond\n\n1. Hydrogen\n2. Hydrophobic interaction\n3. Ionic bond",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 189,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Quaternary: Homo/Hetero meric",
+      "content": "Homomeric protein: this the quatinary structure of protein with identical subunits e.g LDH5 lactate Dehydratase five subtype  isoenzyme which has 4 identical M chain\n\n2. Heteromeric :-: has different/non-identical subunits e.g hemoglobin ",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 190,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Quaternary:-: Cooperativity",
+      "content": "For example, when an oxygen atom binds to one of hemoglobin's four binding sites, the affinity to oxygen of the three remaining available binding sites increases; i.e. oxygen is more likely to bind to a hemoglobin bound to one oxygen than to an unbound hemoglobin. This is referred to as cooperative binding.",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 191,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Quaternary structure Significance ",
+      "content": "The tertiary structure gives proteins a very specific shape and is an important feature in the lock and key function of enzymes on the cell membrane. The quaternary structure of protein allows a protein to have multiple functions. They allow the protein to undergo conformational changes.\n\nQuaternary structure may be defined as the specific association of subunits to form a single functional molecule. The arrangement of the subunits (monomers) ",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 192,
+      "boxId": 6,
+      "subBoxId": 12,
+      "title": "Significance of Quaternary structure ",
+      "content": "1. Cooperativity\n2. Regulatory ",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 193,
+      "boxId": 7,
+      "subBoxId": 14,
+      "title": "Spartial",
+      "content": "The meaning of SPATIAL is relating to, occupying, or having the character of space. How to use spatial in a sentence.\n\nSpatial arrangement of atoms concern how different atomic particles and molecules are situated about in the space around the organic compound, namely its carbon chain.",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 194,
+      "boxId": 6,
+      "subBoxId": 13,
+      "title": "Casein",
+      "content": "Casein protein provides the body with all of the amino acids necessary to help build muscle. Casein protein is digested more slowly than other proteins, so it might be better at reducing appetite and increasing feelings of fullness.\n\nCasein is a family of related phosphoproteins that are commonly found in mammalian milk, comprising about 80% of the proteins in cow's milk and between 20% and 60% of the proteins in human milk",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 195,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Forearm ",
+      "content": "The forearm is the region of the upper limb between the elbow and the wrist. The term forearm is used in anatomy to distinguish it from the arm",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 196,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Flexor",
+      "content": "flexor muscle, any of the muscles that decrease the angle between bones on two sides of a joint, as in bending the elbow or knee. Several of the muscles of the hands and feet are named for this function.\n\nA flexor is a muscle that flexes a joint. In anatomy, flexion (from the Latin verb flectere, to bend) is a joint movement that decreases the angle between the bones that converge at the joint. For example, one's elbow joint flexes when one brings their hand closer to the shoulder.",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 197,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Anconeus muscle ",
+      "content": "The anconeus is a small muscle located at the elbow attaching the humerus and ulna. Although the anconeus muscle is active during elbow extension the importance of the anconeus for the movement itself is probably very small. The Triceps brachii muscle is by far the major muscle responsible for elbow extension.\n\nAnconeus originates on the posterior surface of the lateral epicondyle of the humerus and inserts distally on the superior posterior surface of the ulna and the lateral aspect of the olecranon.",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 198,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Question on Humerus (lower end)",
+      "content": "1. List the significant part of the lower limb\n2. Name the part that articulate with the head of radius and ulna and state their anatomical positions\n4. Describe the anatomical positions and function of, radial fossa, alecranon fossa, coracoid fossa\n5. Name the part of the lower end with their anatomical positions that has area for muscle attachments\n6. Where is common flexor and extensor origin of the flexor and extensor muscles of the forearm\n7. What is the origin and insertion of anconeus muscle \n",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 199,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Diaphysis & epiphysis ",
+      "content": "The main difference between epiphysis and diaphysis is that epiphysis is the rounded end of a long bone, at its joint with adjacent bone(s), whereas diaphysis is the main or midsection (shaft) of a long bone. Furthermore, epiphysis is made up of spongy bone while diaphysis is made up of cortical bone.",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 200,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Epiphyseal plate & line",
+      "content": "What is the difference between an epiphyseal plate and an epiphyseal line? The Epiphyseal plate contains cartilage used for producing bone. The Epiphyseal line is formed after the epiphyseal plate has stopped producing bone).\n\nThe growth plate, also known as the epiphyseal plate is a thin layer of cartilage that lies between the epiphyses and metaphyses, and is where the growth of long bones takes place.",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 201,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Question on Shaft",
+      "content": "1. Name the three border and surface of the shaft\n2. Describe the location of the anterior border and the medial border and lateral border\n3. Describe the three muscle attachments on the medial border \n4. Describe the muscle attachments on lateral border\n5. Describe the location of the three surface of the shaft\n6. Which of the surface contains the deltoid tuberosity\n7. Which muscle is attached to the posterior surface ",
+      "date": "23rd/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 202,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Outline ",
+      "content": "1. Humerus\n2. Parts\n3. Lower end\n4. Upper end\n5. Shaft\n6. Ossification ",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 203,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Osification ",
+      "content": "Humerus ossifies from one primary center and seven secondary center\n\nShaft :-: the primary center appear on the 8th week of development at the diaphysis (shaft)\n\nUpper end :-: ossifies from three ossification secondary center, \nOne for\n1. Head (first year)\n2. Greater tubercle (second year)\n3. Lesser tubercle (fourth year)\nThe three fuses together on the sixth year the form a compound Epiphysis which fuses with the shaft on the 20th year\n\nLower end :-: ossifies from four secondary center one for\n\n1. Capitulum and lateral flange of trochlea (first year)\n2. Media flange of trochlea (9th year)\n3. Lateral epicondyle (12th year)\nThe three fuses together to form another compound Epiphysis on the 14th year which fuses with the shaft on the 16 tear\n\n4. Media epicondyle :-: ossifies from one secondary center on 4th-5th year to form a separate epicondyle which fuses with shaft on the 20th year",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 204,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Part of humerus with Muscle attachments ",
+      "content": "Upper End :-: [\n1. Head - Hyaline Cartilage\n2. Greater tubercle — Supraspinous, infraspinous and teres minor (SIT)\n3. Lesser tubercle — subscapularis\n4. Intertubercular sulcus — pectoralis major (lateral libs), teres major (medial lib), latissimus (floor), head of biceps brachai enclosed in synovial sheath \n5. Anatomical Neck -- capsule ligament of shoulder joint\n]\n\n\nShaft:-: [\n1. Lateral Supracondylar ridge at the lower part of the lateral border of the shaft —  lateral intermuscular septum\n\n2. Medial border -\ni. medial intermuscular septum at the Medial Supracondylar ridge at the lower part of the medial border of the shaft \nii. Coracobrachialis muscle - middle of the border\niii. Pronator teres - narrow area above the medial epicondyle \n\n",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 205,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Nerve associated with the humerus ",
+      "content": "1. Axillary nerve : around the surgical neck\n2. Radial nerve :-: located across the radial groove at the middle one third of posterior surface of the shaft\n3. Ulna nerve :-: located at the posterior part of the media epicondyle ",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 206,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Occulation",
+      "content": "An occlusion is a complete or partial blockage of a blood vessel. While occlusions can happen in both veins and arteries, the more serious ones occur in the arteries. An occlusion can reduce or even stop the flow of oxygen-rich blood to downstream vital tissues like the heart, brain, or extremities",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 207,
+      "boxId": 7,
+      "subBoxId": 14,
+      "title": "Occulation ",
+      "content": "An occlusion is a complete or partial blockage of a blood vessel. While occlusions can happen in both veins and arteries, the more serious ones occur in the arteries. An occlusion can reduce or even stop the flow of oxygen-rich blood to downstream vital tissues like the heart, brain, or extremities",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 208,
+      "boxId": 7,
+      "subBoxId": 14,
+      "title": "Median nerve",
+      "content": "What is the median nerve? The median nerve is a sensory and motor nerve of the arm (or upper limb). It arises from the lateral and medial cords of the brachial plexus, originating in the spinal cord, and runs through the anterior portion of the arm and forearm before finishing its path at the hand and digits (fingers).",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 209,
+      "boxId": 7,
+      "subBoxId": 14,
+      "title": "Volkmann’s ischaemic contracture",
+      "content": "A Volkmann's contracture is a deformity of the hand, fingers, and wrist which occurs as a result of a trauma such as fractures, crush injuries, burns and arterial injuries. Following this trauma, there is a deficit in the arterio-venous circulation in the forearm which causes a decreased blood flow and hypoxia can lead to the damage of muscles, nerves and vascular endothelium. This results in a shortening (contracture) of the muscles in the forearm\n\nA fracture of the supracondylary space causes a deficit in the circulation of the arteria brachialis. It is caused by the blocking of the circulation and a deficit in blood supply to the muscles and nerves malfunction. There is a contracture of the muscles, usually, the flexors of the wrist. Yet, there is also a contracture occurring with the extensors of the wrist, but this is less common.",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 210,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Brachailis",
+      "content": "The brachialis is an important flexor muscle of the forearm at the elbow. [1] The brachialis provides flexion of the elbow at all physiologic positions and is considered a \"pure flexor\" of the forearm at the elbow. [2] It lies in the anteroinferior area of the arm and is deeper than the biceps brachialis muscle.",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 211,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Volkmann's ischaemic contracture",
+      "content": "A Volkmann's contracture is a deformity of the hand, fingers, and wrist which occurs as a result of a trauma such as fractures, crush injuries, burns and arterial injuries. Following this trauma, there is a deficit in the arterio-venous circulation in the forearm which causes a decreased blood flow and hypoxia can lead to the damage of muscles, nerves and vascular endothelium. This results in a shortening (contracture) of the muscles in the forearm\n\nA fracture of the supracondylary space causes a deficit in the circulation of the arteria brachialis. It is caused by the blocking of the circulation and a deficit in blood supply to the muscles and nerves malfunction. There is a contracture of the muscles, usually, the flexors of the wrist. Yet, there is also a contracture occurring with the extensors of the wrist, but this is less common.",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 212,
+      "boxId": 7,
+      "subBoxId": 14,
+      "title": "Myositis ossificans",
+      "content": "Myositis ossificans is a reaction to a bruise in a muscle that has been injured. During the healing of the bruise, calcium can become deposited in the bruise causing a hard bone like structure within the muscle",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 213,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Clinical correlation ",
+      "content": "1. Area of fracture in humerus\nA. Surgical neck\nB. Shaft\nC. Supracondylar region\n\n2. Humerus has a poorly blood supply at the junction of it's Upper one-third and lower two-third, hence fracture at this site shows delay union or non union.\n\n",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 214,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Supracondylar fracture ",
+      "content": "This common to children, when fell with an outstretched hand, this might cause fracture at the supracondylar region of humerus, the lower fragments of the fractured at the supracondylar region displaced backwards. This might lead to injury to the median nerve (which is a sensory and motor nerve of the forearm) and the artery brachail. This might lead to Volkmann's ischaemic contracture (is the deformity of the hand, finger and wrist due to the contracture of the flexor muscles of the forearm as a result of the decrease in blood supply and hypoxia in the muscle)\nwhich is as a result of the occulation of the artery brachail",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 215,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "Myositis ossificans",
+      "content": "Myositis ossificans is a reaction to a bruise in a muscle that has been injured. During the healing of the bruise, calcium can become deposited in the bruise causing a hard bone like structure within the muscle",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 216,
+      "boxId": 2,
+      "subBoxId": 8,
+      "title": "General questions on humerus ",
+      "content": "1. The formation of hard bone like structure in the muscle due is called \n2. List the part of the humerus that normally get fractured\n3. Which part of the Humerus show non-union when fractured and why\n4. What is clinical condition that occurs when their is a fracture at supracondylar region \n5. Name the artery and the nerve that is affected by the above fracture ",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 217,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Clavicle",
+      "content": "This is one of the bones of the Uperlimbs specifically the shoulder bone located on anterior part of the body at the junction between the root of the neck and the trunk, it is medially articulated to the sternum and anteriorly to the acomion of the scalpular. And it is the only bony attachment between the neck and the trunk",
+      "date": "24th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 218,
+      "boxId": 8,
+      "subBoxId": 15,
+      "title": "Outline ",
+      "content": "=: Cell Definition\n=: cell theory \n=:  Part of a cell\n=: Cell membrane\n=: Cytoplasm\n=: Cytosol\n=: Integral protein\n=: Peripheral protein\n=: Glycocarylx\n=: Function of cell membrane ",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 219,
+      "boxId": 8,
+      "subBoxId": 15,
+      "title": "Definition of cell",
+      "content": "Cells are the structural, functional, and biological units of all living beings.\nIt is a membrane bounded microscopic structure whose membrane is made up of two layers of phospholipids with embedded proteins. It separates the contents of the cell from its outside environment, as well as regulates what enters and exits the cell.\n\nA cell consists of three parts: the cell membrane, the nucleus, and, between the two, the cytoplasm. Within the cytoplasm lie intricate arrangements of fine fibers and hundreds or even thousands of miniscule but distinct structures called organelles.",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 220,
+      "boxId": 8,
+      "subBoxId": 16,
+      "title": "Prokaryotic/eukaryotic cell",
+      "content": "Prokaryotic cell does not have membrane bounded nucleus and organelles ",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 221,
+      "boxId": 8,
+      "subBoxId": 15,
+      "title": "Cell membrane ",
+      "content": "Cell membrane also called plasma membrane or plasmalemma is a bi layer membrane made up of phosphorlipid that encloses the cell separating the intercellular fluid from the extracellular fluid of the cell\n\nComponents of the cell membrane includes\n1. Membrane lipid\n\n\n",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 222,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Outline ",
+      "content": "=: Definition brachai plexus\n=: Root of The Brachail Plexus",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 223,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Question",
+      "content": "1. Define brachail plexus",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 224,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Root of the Brachai plexus",
+      "content": "There are 5 root of the Brachai plexus which are C5, C6, C7,C8,T1 \nThey emanates from 4 vertebra of the spinal cord C5, C6,C7 & T1 \n[ C = cervical vertebra (7 in number) \n T = Thoracic vertebra ]\n\nEach of the root emanating from the anterior part of the above vertebra except for C8 which emanates in-between C7 and T1\n",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 225,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Rhombic Muscle ",
+      "content": "The rhomboids are two bilateral, superficial muscles located in the upper back. They consist of two functionally similar muscles called rhomboid minor and rhomboid major. Together with trapezius, levator scapulae and latissimus dorsi, they comprise the superficial layer of the extrinsic back muscles.\n\nThe rhomboid muscles originate from  the nuchal ligament and the spinous processes of T2 to T5 vertebra and inserted to the medial border of the scapular adjacent to the scapular spine.\n\n Under innervation from the dorsal scapular nerve, the rhomboids primarily \n1. retract the scapula superomedially and \n2. rotate the glenoid cavity. \n3. the rhomboids are important to stabilize the scapula into position and reinforce the shoulder.",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 226,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Nerve branches from Root",
+      "content": "1. Dorso Scapular Nerve :-: from C5 root of the Brachai plexus which innervates the \na. Rhombus muscle and\nb. Levator-Scapular muscle\n\n2. Long Thoracic Nerve :-: from C5, C6, and C7 root  which innervate the seratus anterior muscle which help to protract the scapular \n\n(menomic it's long because it comes from 3 root,  it is a thoracic nerve because it innervates the seratus located at the anterior and lateral part of the thoracic regiob)",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 227,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Levator Scapulae",
+      "content": "ORIGINATION \nThe levator scapulae originates on the posterior tubercle of transverse process of cervical vertebrae 1 to 4\n\nINSERTION \nThe levator scapulae inserts on to the vertebral margin of the scapula between the superior angle and the root of the spine\n\nFUNCTION \nThe levator scapulae functions to elevate the scapula and tilt the glenoid cavity inferiorly by rotating the scapula downward.\n\nPOSITIONS\nThe superior third of the strap-like levator scapulae lies deep to the sternocleidomastoid while the inferior third is deep to the trapezius. From the transverse processes of the upper cervical vertebrae, the fibers of the levator of the scapula pass inferiorly to the superomedial border of the scapula\n\n",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 228,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Serratus anterior ",
+      "content": "anterior (SA) is a fan-shaped muscle that originates on the superolateral surfaces of the first to eighth or ninth ribs at the lateral wall of the thorax and inserts along the superior angle, medial border, and inferior angle of the scapula.\n\nIt is inserted at the medial border of the scapular on it's costal surface (costal surface is the anterior surface of the scapular that lies against the rib cage)\n\n\nIt acts on the scapula and is the prime mover in both scapular protraction and scapular upward rotation.\nIs a key scapular stabilizer, keeping the shoulder blades against the ribcage when at rest and during movement.\n\nThe serratus anterior acts to pull the scapula forward around the thorax. The left side of the thorax. protracts and stabilizes scapula, assists in upward rotation. The muscle is named from Latin: serrare = to saw (referring to the shape); and anterior = on the front side of the body.\n\n",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 229,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Nerve Branches from trunk ",
+      "content": "From Superior Trunk (S trunk give rise to S nerve)\n\n1. Suprascapular Nerve\n2. SubClavius Nerve",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 230,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Parts of the Brachai plexus",
+      "content": "1. Root \n2. Trunk\n3. Division \n4. Cord\n5. Branches \n",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 231,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Supraspinatus ",
+      "content": "\nSupraspinatus is one of the rotator cuff muscles, along with infraspinatus, teres minor and subscapularis muscles. Supraspinatus is located deep to the trapezius muscle in the posterior scapular region, extending from the supraspinous fossa of scapula to the proximal humerus.\n\nTogether with the other rotator cuff muscles, supraspinatus stabilizes the glenohumeral (shoulder) joint during the movements of the upper limb. Additionally, it assists in the abduction of the arm.\n\nSupraspinatus is the most superior of the four rotator cuff muscles. It is a small triangular-shaped muscle, located on the posterior aspect of the scapula. It originates from the medial aspect of the supraspinous fossa, a concave depression located above the spine of the scapula.\n\nThe muscle fibers converge onto a tendon that runs inferior to the acromion of the scapula. After passing over the glenohumeral joint it inserts onto the superior facet on the greater tubercle of humerus.\n\nIt originates from the medial aspect of the supraspinous fossa, a concave depression located above the spine of the scapula.\n\n\n\nOrigin\nSupraspinous fossa of scapula\nInsertion\nGreater tubercle of humerus\n\nAction\nShoulder joint: abduction of arm, stabilization of the humeral head in the glenoid cavity\nInnervation\nSuprascapular nerve (C5, C6)\nBlood supply\nSuprascapular artery",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 232,
+      "boxId": 2,
+      "subBoxId": 10,
+      "title": "Infraspinatus ",
+      "content": "Origin\nInfraspinous fossa of scapula\nInsertion\nGreater tubercle of humerus\nAction\nShoulder joint: Arm external rotation; \nStabilizes humeral head in glenoid cavity\nInnervation\nSuprascapular nerve (C5, C6)\nBlood supply\nSuprascapular artery, circumflex scapular arteries\n\nInfraspinatus is a thick triangular muscle that occupies the majority of the dorsal surface of the scapula. It arises mostly from the infraspinous fossa of scapula, and connects it to the proximal humerus. \n\nInfraspinatus is one of the four rotator cuff muscles, alongside subscapularis, teres minor and supraspinatus muscles. As a part of the rotator cuff muscles, the main function of infraspinatus muscle is external rotation of the humerus, as well as stabilization of the glenohumeral, or shoulder joint.",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 233,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Trunk",
+      "content": "There three Trunk\n1. Superior Trunk :-: from the combination of C5 root and C6 roots of the Brachai plexus\n\n2. Middle trunk :-: continuation of the C7 roots\n\n3. Inferior Trunk :-: from C8 root and T1 root",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 234,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Division",
+      "content": "Each of the three Trunk divides into two division \n1. anterior division (moves to the anterior part of the body)\n2. posterior division (innervate the posterior part of the body)\n\nMaking it a total of six (6) Division ",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 235,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Cord",
+      "content": "There are total of three cord\n1. Lateral cord :-: form by the anterior division of superior and middle trunk\n\n2. Posterior cord :-: formed by the posterior divisions of all the trunk\n\n3. Medial cord :-: as continuation of the anterior division of the inferior trunk\n",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 236,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Terminal nerve of the Cord ",
+      "content": "The terminal nerve/branches of the cord are the nerve where the plexus terminate\n(Menomic =: My aunty raped my uncle)\n1. Musclocutaneous Nerve (from lateral cord)\n\n2. Axillary Nerve (from posterior cord )\n\n3. median Nerve (from lateral cord of the media nerve)\n\n4. Radial Nerve (from the posterior cord)\n\n5. Ulnar Nerve (from media cord)",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 237,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Lateral cord Branches/nerves",
+      "content": "There are three branches (two terminal nerve, and one side branch\n\n1. Musclocutaneous Nerve (terminal nerve)\n\n2. Lateral root of medial nerve (terminal nerve, which together with the media root of median nerve give rise to median nerve)\n\n3. Lateral pectoral nerve (side chain , which innervate the pectoralis major)",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 238,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Media cord Branches ",
+      "content": "They are 5, 3 M-Nerve , U & L Nerve\n\n1. Medial root of median nerve (terminal branch of media cord)\n\n2. Terminal Ulnar Nerve ( terminal branch)\n\n3. Medial pectoral nerve (side branch, which linked up with the lateral pectoral nerve to innervate the pectoralis major and minor)\n\n4. Medial cutaneous nerve of arm also called medial brachial nerve (side branch, which innervate the arm, and sensitive to touch and temperature)\n\n5. Medial cutaneous nerve of forearm also called the medial antebrachial nerve (side branch, which innervate the forearm)",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 239,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Posterior cord nerves",
+      "content": "They are Nerves (Menomic Ultra)\n\n1. Upper subscapular nerve ( innervate subscapularis, beneath the scapular, hence the name)\n\n2. Lower subscapular nerve ( innervate the subscapularis and teres muscle)\n\n( two muscles are underneath the scapular, the subscapularis (which cause an internal or medial rotator of the scapular ) and teres minor which is bellow the subscapularis)\n\n3. Thoracodorsal nerve (innervates the latissimus dorsei which abduct, and medially rotate the humerus)\n\n4. Radial nerve\n5. Axillary nerve",
+      "date": "25th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 240,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Musclocutaneous motor branches ",
+      "content": "\nThe motor nerve of the musclocutaneous branches innervate three muscle\nBBC\n1. Biceps Brachai\n2. Brachailis\n3. Coracobrachialis\n\n1. Biceps Brachii: The musculocutaneous nerve innervates the biceps brachii muscle, which is responsible for flexing the elbow joint and supinating the forearm.\n\nOriginate from the coracoid process(short head), supraglenoid tubercule and the lip of glenoid cavity of the scapular(long head) and insert on radial  tuberosity of radius and deep fascial of the forearm \n\nIt is separated medially from the brachialis by media intertubercular septum\n\n2. Brachialis: It also innervates the brachialis muscle, a deep muscle that plays a significant role in elbow flexion.\nIt originate from the anterior surface of distal half of the humerus and insert on the ulna tuberosity and coronoid process\n\n3.Coracobrachialis: The musculocutaneous nerve supplies the coracobrachialis muscle, which helps to flex and adduct the arm at the shoulder joint.\n\nOriginate from the coracoid process and inserted on the medial surface of the humerus \n\nThese muscles work together to perform various movements of the upper arm and forearm, including flexing the elbow, lifting objects, and stabilizing the shoulder joint.",
+      "date": "26th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 241,
+      "boxId": 2,
+      "subBoxId": 17,
+      "title": "Musculocutaneous cutaneous branch ",
+      "content": "This also called lateral cutaneous nerve of the forearm or lateral antebrachial nerve\n\nIt innervates the lateral surface of the the forearm, it conveys sensation like pain , touch, temperature etc",
+      "date": "26th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 242,
+      "boxId": 8,
+      "subBoxId": 15,
+      "title": "Membrane lipid",
+      "content": "The structure of a cell membrane constitute of phosphorlipids, each phosphorlipids molecules consist of a polar head which contain Phosphate group, choline and glycerol, the Phosphate group is negatively charged and can easily interact with water hence gives the polar head  it's hydrophilic property\n\nAnd the non-polar tail which consist of two fatty acid chains, saturated and unsaturated fatty chain which is hydrophobic\n\nThe hydrophilic head of the phosphorlipids faces the extracellular and intracellular environment of the cell while the hydrophobic is in-between hence the cell membrane is a bilayer structure.",
+      "date": "26th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 243,
+      "boxId": 8,
+      "subBoxId": 15,
+      "title": "Cell membrane:-: Integra protein",
+      "content": "Integral proteins serve various crucial functions in the cell membrane, including:\n\n1.Transport: Some integral proteins such glucose transporters helps in transporting specific materials or molecules across the cell membrane \n\n2. Receptor sites: e.g They can also serve as receptor proteins, which bind to specific signaling molecules (ligands) and initiate cellular responses.\n\n3. Cell adhesion: Integral proteins can be involved in cell-cell adhesion and cell-matrix interactions, helping cells adhere to each other and to the extracellular matrix.e.g integrins\n\n4. Enzymatic activity: Some integral proteins have enzymatic functions, catalyzing specific biochemical reactions at the cell membrane.\n\n5. Structural support: They contribute to the overall stability and structural integrity of the cell membrane.\n\nExamples of integral proteins include \n\n1.ion channels, \n\n2. G protein-coupled receptors, transporters (e.g., glucose transporters), and \n\n3. integrins (cell adhesion proteins).\n\n These proteins play essential roles in maintaining the integrity and functionality of the cell membrane.",
+      "date": "26th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 244,
+      "boxId": 8,
+      "subBoxId": 15,
+      "title": "Integra & peripheral protein ",
+      "content": "Integral proteins are confined within the plasma membrane and cross the entire or partial thickness of the cell membrane, whereas peripheral proteins are confined only on the surface of the cell membrane ",
+      "date": "26th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 245,
+      "boxId": 8,
+      "subBoxId": 15,
+      "title": "Cell membrane :-: peripheral protein ",
+      "content": "Peripheral Proteins:\n\n1. Kinases: Many protein kinases are peripheral proteins associated with the inner surface of the cell membrane. They participate in phosphorylation reactions, adding phosphate groups to other proteins, and thereby regulate various cellular processes.\n\n2. Spectrin: This peripheral protein is found in the cytoskeleton and helps maintain the shape and stability of red blood cells. It interacts with the inner surface of the cell membrane.\n\n3. Annexins: These are peripheral membrane proteins that bind to negatively charged phospholipids in the cell membrane, influencing processes like membrane repair and vesicle trafficking.\n\n4. Glycoproteins: Some glycoproteins are peripheral proteins that have carbohydrate chains attached. They are involved in cell recognition, adhesion, and signaling.\n\n5. Adaptor Proteins: These peripheral proteins link integral membrane proteins to various cellular processes. For example, they can connect cell surface receptors to intracellular signaling pathways.",
+      "date": "26th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 246,
+      "boxId": 8,
+      "subBoxId": 16,
+      "title": "Cytosol",
+      "content": "Cytosol is the semi-fluid, gel-like substance found within cells where various cellular activities take place. It surrounds organelles and is where many metabolic reactions occur.\n\norganelles are typically embedded in the cytosol. Organelles are membrane-bound structures within a cell, and they are suspended within the cytosol. This arrangement allows for compartmentalization of different cellular functions and processes.",
+      "date": "26th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 247,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Outline ",
+      "content": "1. Definition and anatomical positions of Scapular \n2. Parts of scapular ",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 248,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Costal Surfaces of the scapular ",
+      "content": "1. Costal Surface:-: also called subscapular fossa is concave and directed medially and forward\nIt present three longitudinal obligue ridge which provides attachment to the intramuscular tendon of subscapularis muscle \nMUSCLE ATTACHMENTS\n1. subscapularis muscle (multipennate muscle) arise from media two third of the subscapular fossa\n\n2. Serratus anterior muscle insert on the costal surface along the media border and inferior angle of the scapular ",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 249,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Dorsal Surface ",
+      "content": "It is the convex posterior surface of Scapular\nFEATURES\n1. It present a shell like projection called the spinous process which divides it into upper one third supraspinous fossa and lower two third infraspinous fossa\n\n2. Spinoglenoid notch : located at the lateral border of the spinous process and on the posterior surface of Scapular neck, it enables communication between the two fossa and also the suprascapular nerve and vessels passed through it from supraspinous fossa to the infraspinous fossa\n\nMUSCLE ATTACHMENTS\n\n1. Supraspinatus muscle : arise from media two third of the supraspinous fossa\n\n2. Infraspinatus muscle: arises from medial two third of the infraspinous fossa \n\n3. Teres minor : arises from the upper two third of the dorsal surface along the lateral border of the scapular, this origin is interrupted by circumflex scapular artery\n\n4. Teres major: arises from lower one third of the dorsal surface along the lateral border and inferior angle of Scapular \n\n5. Latissimus Dorsi: arise from the dorsal surface along the inferior border of Scapular.",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 250,
+      "boxId": 11,
+      "subBoxId": 18,
+      "title": "Outline ",
+      "content": "1. Definition of lipid \n2. Criteria for the definition of lipid\n3. Classification of lipids",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 251,
+      "boxId": 11,
+      "subBoxId": 19,
+      "title": "Ester",
+      "content": "This in organic compound formed when the hydroxyl in carboxylic group of allkanoic acids is replaced by O-akyl\nIs normally formed from the reaction between alkanoic acid and alkanol with the liberation of water ",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 252,
+      "boxId": 11,
+      "subBoxId": 18,
+      "title": "Bloor's criteria ",
+      "content": "In 1925 a criteria for identification and definition of lipid are stated by BLOOR. And they include\n1. They insoluble in water but soluble in non polar solvent(e.g ether, chloroform, benzene etc)\n2. They are ester of fatty acid\n3. They utilizable by living organism ",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 253,
+      "boxId": 11,
+      "subBoxId": 18,
+      "title": "Definition of Lipids",
+      "content": "Lipids are heterogenous group of organic compound that are characterized by their hydrophobic nature, that is  they are insoluble in water but soluble in non-polar solvent.",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 254,
+      "boxId": 11,
+      "subBoxId": 18,
+      "title": "Classification of lipids",
+      "content": "1. Simple lipids\n2. Compound lipids\n3. Derived lipids\n4. Miscellaneous lipids",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 255,
+      "boxId": 11,
+      "subBoxId": 18,
+      "title": "Simple lipids ",
+      "content": "This are ester of fatty acid with various alcohol (e.g of alcohol involved in simple lipids are\n1. Glycerol \n2. Cholesterol\n3. Sphingosine)\n\nExamples of simple lipids\n1. Triacylglycerol :-:\na. Triacylglycerols, or triglycerides, store energy for the body. Calories are stored in the form of triglycerides in the liver and adipose tissue of the body. Between meals, when the body needs energy, hormones trigger the release of triglycerides into the blood stream.\nb. Triglycerides also help to insulate the body and protect vital organs.\n\n2. Waxes :-: these are ester of long chains of fatty acid and long monohydric alcohol, a typical wax is acetyl palmitate which is an ester of acetyl alcohol and palmitic acid, ",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 256,
+      "boxId": 11,
+      "subBoxId": 19,
+      "title": "Calories ",
+      "content": "Calories are the amount of energy released when your body breaks down (digests and absorbs) food. The more calories a food has, the more energy it can provide to your body.\n\nIt is a unit of measuring energy in the body\n1 ATP releases 7.3 kilocalories of energy \nHence 38 ATP releases 222.4 kcal",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 257,
+      "boxId": 11,
+      "subBoxId": 18,
+      "title": "Compound lipids",
+      "content": "These are simple lipids convalently bond to other groups other than fatty acid and alcohol \nOr\nThey are complex structure of lipid that contains additional molecules or group other than alcohol and fatty acid convalently bonded to simple lipid , this lipids carry out very important function in human, including signalling , other metabolic activity, they are also components of the cell membrane \ne.g\n1. Phosphorlipids :-: contains Phosphate group , two fatty acid and a glycerol, they forms the structural framework of cell membrane e.g phosphatidycholine, phosphatidylethanlomine\n\n2. Glycolipids :-: they contains fatty acid and carbohydrates, they are found on the cell membrane, and they play a role in recognition and signaling e.g cerebrosides and gangliosides\n\n3. Sulfolipids\n4. Proteolipids/Aminolipids",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 258,
+      "boxId": 11,
+      "subBoxId": 18,
+      "title": "Derived lipids ",
+      "content": "Derived lipids, also known as preformed lipids or modified lipids, are a category of lipids that are not directly involved in energy storage or structural functions like simple and compound lipids. Instead, they are derived from the hydrolysis or modification of simple or compound lipids and often serve specialized functions in the body. Here are some common examples of derived lipids:\n\n1. Eicosanides\n2. Steroids\n3. Fat soluble vitamins\n4. Lipid soluble pigment\n5. Diacylglycerol\n6. Fatty acids\n",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 259,
+      "boxId": 11,
+      "subBoxId": 20,
+      "title": "Fatty acid Definition ",
+      "content": "Fatty acids serves as the building blocks of lipid consisting of long hydrocarbon chains of minimum of 4 carbon atom and maximum of 36 carbon atom with carboxylic acid group.\nThe bond between the carbon atom might single(saturated fatty acid) or double bond(understand fatty acid)",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 260,
+      "boxId": 11,
+      "subBoxId": 20,
+      "title": "Outline ",
+      "content": "1. Definition of fatty acid\n2. Short hand to represent fatty acid structure\n=: Saturated fatty acid\n=: unsaturated fatty acid\n=: Essential fatty acid\n=: non-essential fatty acid\n=: Short chain Fatty acid\n=: medium chain fatty acid\n=: long chain fatty acid\n=: very long chain fatty acid\n=: branched chain fatty acid \n",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 261,
+      "boxId": 11,
+      "subBoxId": 20,
+      "title": "Short hand",
+      "content": "1. Carboxylic end Or Delta end numbering system ( start from the carboxylic end)\n2. Omega end numbering system (start from metyl end)\n3. Greek Alphabet system (only start from the carbon that contains carboxylic group, which is the alpha carbon)",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 262,
+      "boxId": 11,
+      "subBoxId": 20,
+      "title": "Classification of fatty acid ",
+      "content": "1. Based on numbers of carbon \n2. Based on presence of double bond",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 263,
+      "boxId": 11,
+      "subBoxId": 20,
+      "title": "Based on No of Carbon ",
+      "content": "1. Small chain fatty acid (SCFA)\nBetween C2 - C6\n\n2. Medium chain fatty acid (MCFA) between C8 - C14\n\n3. Long chain fatty acid (LCFA) above C16",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 264,
+      "boxId": 11,
+      "subBoxId": 20,
+      "title": "Based on presence of double bond",
+      "content": "1. Saturated fatty acid (has no double bond)\n\n2. Unsaturated ( has double bond)\na. Mono saturated ( has one double bond)\nb. Poly saturated(more than one double bond)",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 265,
+      "boxId": 11,
+      "subBoxId": 20,
+      "title": "Branched fatty acid ",
+      "content": "Branched-chain fatty acids (BCFAs) are a type of fatty acid with one or more branches or methyl (CH3) groups along their hydrocarbon chain. These branches can occur at different positions along the carbon backbone. BCFAs are not as common as straight-chain fatty acids but are found in some biological organisms. Here are a few examples of branched-chain fatty acids:\n\n1. **Isovaleric Acid:** Isovaleric acid is a branched-chain fatty acid with a single methyl group on the carbon chain. It has a branched structure and is found in trace amounts in some dairy products. It contributes to the distinctive odor of sweaty feet.\n\n2. **Isobutyric Acid:** Isobutyric acid is another branched-chain fatty acid with a methyl group branching off the carbon chain. It's found in some cheeses and is partly responsible for their aroma.\n\n3. **Phytanic Acid:** Phytanic acid is a branched-chain fatty acid with multiple methyl groups along its carbon chain. It's derived from phytol, a component of chlorophyll, and is found in the fat of ruminant animals. Accumulation of phytanic acid can lead to a metabolic disorder known as Refsum disease.\n\n4. **Tuberculostearic Acid:** Tuberculostearic acid is a branched-chain fatty acid with a unique structure. It is produced by the bacterium Mycobacterium tuberculosis and is associated with the cell wall of this pathogen.\n\nThese branched-chain fatty acids have distinct chemical structures and can have specific functions in the organisms that produce or encounter them.",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 266,
+      "boxId": 11,
+      "subBoxId": 20,
+      "title": "Saturated fatty acid ",
+      "content": "They include\nShort Chain Fatty acid (SCFA)\n=: Acetic acid (2 Carbon)\n(Source: from vinegar)\n\n=: Propionic acid (3 C)\n=: Butyric acid (4 C)\n=: Valeric acid (5 C)\n=: capric acid (6 C)\n(Richest source is Butter which is liquid at room temperature)\n\nMedium chain fatty acid\n(MCFA)\n=: Lauric acid (12 C)\n=: myristic acid (14 C)\n(Richest source coconut oil/milk,\nThey are liquid at room temperature)\n\nLong chain fatty acid(LCFA)\n=: Palmitic acid (16  C)\n(Very important,)\n=: steric acid (18 C)\n(Richest source is animal fat,\nThey are solid at room temperature)\n",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 267,
+      "boxId": 11,
+      "subBoxId": 20,
+      "title": "Unsaturated fatty acid",
+      "content": "Mono unsaturated fatty acid(MUFA)\n=: palmitoleic acid [ 16:1(Delta 9) ]\n=: oleic acid [ 18 : 1 (Delta 9) ]\n(Cis)\n=: Elaidic acid [ 18 : 1 ( Delta 9) ]\n(Trans)\n\n(Source : mustard oil, Rapeseed oil)\n\nPolyunsaturated fatty acid/polyenoic acid \nA. Linoleic acid (Dienoic acid)\n     [18:2 ( Delta 9,12) w6 ]\nB. Alpha linoleic acid (trienoic acid)\n      [ 18:3 (Delta 9,12,15)  w3]\nC. Gamma Linoleic acid (GLA)\n     [ 18:3 (Delta 6,9,12)  w6]\nD. Arachidonic acid \n    [ 20:4 (Delta 5,8,11,14)  w6]\n   ( source animal fat)\nE. Timnodonic acid\n    (Eicosa Penta enoic acid (EPA) )\n    [ 20 : 5 (Delta 5,8,11,14,17) w3 ]\nF. Cervonic acid\n   ( Docosa hexa enoic acid (DHA))\n   [ 20 : 6 (Delta 4,7,10,13,16,19) ]\n\n(Source of trimnodonic and cervonic acid if fish oil & breast milk)\n( GLA and DHA is important in brain development)\n\nMenomic : LAGATriC",
+      "date": "28th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 268,
+      "boxId": 11,
+      "subBoxId": 19,
+      "title": "LDL VS HDL",
+      "content": "There are two main types of cholesterol: high-density lipoprotein (HDL) and low-density lipoprotein (LDL). Lipoproteins are made of fat and proteins. Cholesterol moves through your body while inside lipoproteins.\n\nHDL is known as “good cholesterol” because it transports cholesterol to your liver to be released from your body. HDL helps rid your body of excess cholesterol so it’s less likely to end up in your arteries.\n\nLDL is called “bad cholesterol” because it takes cholesterol to your arteries, where it can collect in your artery walls. Too much cholesterol in your arteries may lead to a buildup of plaque known as atherosclerosis. This can increase the risk of blood clots in your arteries.\n\nIf a blood clot breaks away and blocks an artery in your heart or brain, you may have a stroke or heart attack.\n\nPlaque buildup may also reduce blood flow and oxygen to major organs. Oxygen deprivation to your organs or arteries may lead to kidney disease or peripheral arterial disease, in addition to a heart attack or stroke.",
+      "date": "29th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 269,
+      "boxId": 11,
+      "subBoxId": 19,
+      "title": "Palmitic ",
+      "content": "Palmitic\nacid is the most common saturated fatty acid, making up over half of all the\nsaturated fat eaten in the United States. It raises LDL (bad) cholesterol\nlevels without affecting HDL (good) cholesterol.",
+      "date": "29th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 270,
+      "boxId": 11,
+      "subBoxId": 19,
+      "title": "Steric acid",
+      "content": "Stearic\nacid is the second most common saturated fat in the American diet. It appears\nto have neutral effects on your blood lipid profile.\n\nIt is a heathy saturated fat, \nWhich lowers the LDL\nNo of carbon atom is 18",
+      "date": "29th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 271,
+      "boxId": 11,
+      "subBoxId": 20,
+      "title": "Cis & trans",
+      "content": "Cis\n1. Oleic \n2. Linoleic\n3. Alpha linoleic\n\nTrans\n1. Elaidic\n2. Trans pamitoleic\n3. Vaceenic",
+      "date": "29th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 272,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Superior border of Scapular ",
+      "content": "1. This is the shortest border of the Scapular that extends from the lateral border to the superior border\n\n2. It prevents suprascapular notch at the root of the coracoid process of Scapular which provides attachment to suprascapular ligament which convert if to suprascapular foramen,  the suprascapular artery passes above the ligament and the suprascapular nerve passes below the ligament\n\n3. Inferior belly of omohyoid is attached at the superior border near the suprascapular notch",
+      "date": "29th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 273,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Lateral border ",
+      "content": "1. This is the thickest border of the Scapular, this is because it acts as a fulcrum in the rotation of the Scapular\n2. It present infraglenoid tubercle located below the glenoid cavity, the long head of the triceps muscle arises from the infraglenoid tubercle ",
+      "date": "29th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 274,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Medial border ",
+      "content": "1. Extends from the superior angle to the inferior angle of the Scapular\n2. The levator Scapulae muscle insert on the dorsal aspect of the medial border of Scapular from the superior angle to the root of the spine\n3. Rhomboideus minor insert at the dorsal surface of the medial border of Scapular opposite the spine\n4. Rhomboideus major insert at dorsal surface of the medial border of the Scapular from the root of spine to the inferior angle",
+      "date": "29th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 275,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Angles",
+      "content": "Scapular has three angles\n1. Superior angle: it junction between the superior border and medial border and lies over the 2nd ribs\n2. Inferior angle : is formed at the bottom of the Scapular and lies over the 7th rib, the latissimus Dorsi arises along the angle on the dorsal surface of Scapular\n3. Lateral angle : is truncated and bears a peer shaped articular cavity called the glenoid cavity which articulate with the head of humerus to form glenohumeral joint, \na. on the magin of the glenoid cavity is attached fibrocartilageous rim, the glenoid labrum\nb. The capsule ligament of scapular joint is also attached to the margin of the glenoid cavity proximal to the glenoid labrum",
+      "date": "29th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 276,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Spinal process",
+      "content": "Is a triangular shell like projection on the dorsal surface of Scapular at the junction between upper one third and lower two third\nIt has two surface (superior and inferior surface) and three border (anterior border, posterior and lateral )\n\nSurface\n1. Superior surface : it form lower border of supraspinous fossa, and origin of supraspinatus muscle\n2. Inferior surface : it form the upper limit of infraspinous fossa, and origin of infraspinatus muscle\n\nBorder\n1. Anterior border : the spine is attached to the dorsal surface of the scapular at its anterior border\n2. Posterior border also called Crest of spine, trapezius is inserted at the upper lip while deltoid muscle originate from the lower lip.\n3. Lateral border : bound the spinoglenoid notch.",
+      "date": "29th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 277,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Acromion process",
+      "content": "1. It continues from the Spinous process\n2. It has two surface (superior and inferior surface ) and two border( medial and lateral border)\n\nBORDER\n3. Media border together with the upper lip of Crest of spine provides attachments to trapezius muscle , the tip of the medial border present a facet that articulate with the lateral end of Clavicle to form acromioclavicular joint.\n\n4. Lateral border provide origin to the intermediate fiber of deltoid muscle.\n(The media and lateral border of acromion continues with the upper and lower lip of Crest of spine)\n\n\nSURFACE\n5. Superior surface is rough and subcutaneous\n6. Inferior surface of smooth and subcutaneous, and also associated to subacromial bursa",
+      "date": "29th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 278,
+      "boxId": 2,
+      "subBoxId": 4,
+      "title": "Coracoid process ",
+      "content": "Arises from the upper part of the Scapular directed forward and slightly laterally, it provides attachment to \n\nMUSCLE\n1. coracobrachialis and short head of biceps brachai which arise from the tip by a common tendon\n2. Pectoralis minor inserted on the medial border of the upper surface.\n\nLIGAMENT\n1. Coracoclavicle ligament\n2. Coracoacromial ligament\n3. Coracohumeral ligament\n",
+      "date": "29th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 279,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Outline ",
+      "content": "=: Description & anatomical positions of clavicle\n=: function\n=: parts\n=:",
+      "date": "30th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 280,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Parts of Clavicle ",
+      "content": "1. Lateral end\n2. Medial end \n3. Shaft",
+      "date": "30th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 281,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Lateral end",
+      "content": "1. Also called acromial end is flattened and faces downwards anatomically,\n2. It contains an oval facet which articulate with the facet on the medial margin of acromion process to form acromioclavicular joint.\n3. It also provides attachment to the fibrous capsules ligament of acromioclavicular joint ",
+      "date": "30th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 282,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Medial end",
+      "content": "1. It is the sternal end, it is enlarged and quadrilateral, it articulate with the clavicular notch of manubrium sterni to form Sternoclavicular joint,\nIt provides attachment to\n\na. Fibrous capsule of Sternoclavicular ligament\nb. Articular discs\nc. Interclavicular ligament",
+      "date": "30th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 283,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Shaft",
+      "content": "1. Is curved\n2. It medial two third is convex forward, and lateral one third is concave forward\n3. Their is longitudinal groove on the middle on third of its inferior surface \n\n",
+      "date": "30th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 284,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Peculiarity of clavicle bone ",
+      "content": "1. It is subcutaneous through out\n2. It is the first bone to ossify\n3 It the only bone to lie horizontally \n4. It the only long bone that ossifies in membrane\n5. It is the only long bone that have two primary ossification center\n6. It is occasionally pierced by middle supraclavicular nerve",
+      "date": "30th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 285,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Shaft: lateral one third",
+      "content": "It is flattened from downwards, This has two surface (superior surface and inferior surface) and two border (posterior and inferior border)\n\nSURFACE\n1. The Superior surface is subcutaneous\n2. The inferior surface present the trapezoid ridge ( a little bit away from the conoid tubercule and conoid tubercule (located near the posterior border) tubercle which provides attachment to the trapezoid and conoid part of the coracoclavicle ligament.\n\nBorder\n1. Anterior border : it is concave forward and it prevents deltoid tubercle for the origin of deltoid muscle\n2. Posterior border : it is convex backwards it provides insertion of trapezius muscle \n\n",
+      "date": "30th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 286,
+      "boxId": 2,
+      "subBoxId": 3,
+      "title": "Shaft : medial two third",
+      "content": "It is cylindrical, and has four surfaces (anterior, superior, inferior and posterior).\n\n1. Anterior surface :-: is convex forward, and it provides origin to the clavicular head of pectoralis major .\n2. Posterior surface :-: is concave backwards, it provides origin to sternohyoid muscle near its medial end, lateral part of this surface form a boundary to the cervical Axillary canal, and it is related to the following\na. Trunk of brachai plexus\nb. Third party of subclavian artery\n\n3. Superior Surface :-: the clavicular head of sternocleidomastoid muscle originate from medial half of this surface.\n\n4. Inferior surface present the following\na. Castoclavicular  ligament attaches to the oval impression near its medial end\nb. SubClavius insert in to the subclavian groove\nc. Clavipectoral fascia attached to the lateral margin of the subclavian groove.\nc. Nutrient foramen of clavicle located on the lateral end of the subclavian groove.",
+      "date": "30th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 287,
+      "boxId": 8,
+      "subBoxId": 22,
+      "title": "Outline ",
+      "content": "=: definition \n=: Structure\n=: Rough endoplasmic reticulum \n=: function of Rough endoplasmic reticulum \n=: cells in the body that has rough endoplasmic reticulum \n\n=: Smooth endoplasmic reticulum\n=: function\n=: cells in the body that has smooth endoplasmic reticulum ",
+      "date": "30th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 288,
+      "boxId": 8,
+      "subBoxId": 22,
+      "title": "Definition of ER",
+      "content": "Endoplasmic reticulum is a network of interconnected Membranous tubules forming a cistern which is found within the cytoplasm of eukaryotic cells ,\nAnd they  continuity of outer membrane of the nuclear envelope \nWithin the cistern is called vacuoplasm/lumen while outside is called cystol/hyaloplasm",
+      "date": "30th/Sep/2023",
+      "favorite": false
+    },
+    {
+      "id": 289,
+      "boxId": 8,
+      "subBoxId": 22,
+      "title": "Ergastoplasm",
+      "content": "Ergastoplasm is the alternate name of the endoplasmic reticulum. The granular endoplasmic reticulum is also known as ergatoplasm. The ER in which ribosomes are found on the cisternae which are involved in the synthesis of proteins and are transported by the membrane-bound vesicles to the extracellular space.",
+      "date": "1st/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 290,
+      "boxId": 8,
+      "subBoxId": 22,
+      "title": "Function of rough endoplasmic ",
+      "content": "1. Site for protein Synthesis -: the RER has ribosome attached to its cistern which Synthesized protein using  by translating the mRNA as that bind to it, the synthesizes protein then enters tge lumen of the RER\n\n2. Protein folding and modifications :- the synthesizes proteins undergoes post-translational modification with the aid specific enzymes , such modifications which include\nN-linked Glycosylation (which is addition of oligosaccharides to the protein specifically to the amine group of asparagine, by an enzyme called Oligosaccharyltransferases, to form glycoproteins), or disulphide bond formation etc, which is necessary for the efficiency of the protein structure.\n\n3. Storage and transportation:-: \nThe modified proteins are parkaged in a vesicle and transported to various cellular destination, some of the protein are sent to the golgi bodies (with the help of proteins called cop 2 which are attached to the vesicle, hence directing the vessicle to the golgi bodies)",
+      "date": "1st/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 291,
+      "boxId": 8,
+      "subBoxId": 22,
+      "title": "Polyribosome ",
+      "content": "Also called polysomes is cluster of ribosomes which simultaneously translates the same mRNA, producing multiple copies of the same protein from the same mRNA. \n\nThis however is an efficient way of cells to produce large quantities of proteins quickly ",
+      "date": "1st/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 292,
+      "boxId": 8,
+      "subBoxId": 22,
+      "title": "Ribosomes docking proteins ",
+      "content": "\tResponsible for attaching (docking) a ribosome to a membrane by interacting with a signal particle attached to a ribosome destined to be membrane bound.\t \n \t \t ",
+      "date": "1st/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 293,
+      "boxId": 8,
+      "subBoxId": 22,
+      "title": "Smooth endoplasmic reticulum ",
+      "content": "This one of the organelles within cytoplasm of eukaryotic cells, it differ from rough endoplasmic reticulum due to the absence of  ribosomes giving a smooth appearance when viewed under the microscope. It is a site of lipid synthesis",
+      "date": "1st/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 294,
+      "boxId": 8,
+      "subBoxId": 22,
+      "title": "Functions of Smooth endoplasmic reticulum ",
+      "content": "1. Lipid metabolism:-: Smooth ER are sites for the Synthesis of lipid and fatty, the main molecule for lipid synthesis is acetyl COA which undergoes series of reactions with help certain enzymes to produce\na. Fatty acids (fatty acid synthase) :-: which can be used to produce triacylglycerols or can be used to generate ATP through beta oxidation\nb. Phosphorlipids:-: an important components of cell membrane \nc. Cholesterol:-: which can be used\n I. To produce sex hormones, [ e.g smooth ER is richly present in testes and ovaries and the cholesterol Synthesized by the smooth endoplasmic reticulum is use to produce sex hormones such as testosterone by testes and ostrogen and progesterone by  ovaries]\n\nii. To produce steroids hormones [ e.g the adrenal cortex is rich with smooth endoplasmic reticulum, the cholesterol Synthesized by this smooth ER can be used produced steroid homones such as cortisol by zona fasciculata and Aldosterone made by zona glomerulata this are part of the adrenal grand]\n\niii. To produce lipoprotein\nIv.  bile acid for efficient emulsification of oil [ by the hepatocytes]\nv. As a one of the components of cell membrane\n\n\n2. Detoxification:-:  Smooth endoplasmic reticulum (especially in hepatocytes of the liver) contains enzyme called cytochrome p450 that helps in the detoxification of harmful drugs and toxin by metabolising those toxics into water soluble substance which can be easily be excreted through the kidney , this process is also called Biotransformation \n\n3. Calcium ion storage :-: the smooth endoplasmic reticulum present in smooth and cardiac muscle as sarcoplasmic reticulum serves as calcium ion reservoir which are very important in muscle contractions.\n\n4. Carbohydrates metabolism:-: Smooth endoplasmic reticulum are also involved in carbohydrates metabolism, which includes the breakdown of glycogen (a storage form of Glucose) into glucose\n\n5. Steroids hormones Synthesis:-: in endocrine gland such as the gland of adrenal and gonads, the smooth endoplasmic reticulum play a vital role in steroid hormone synthesis such as cortisol and testosterone \n\n\n6. Membrane Synthesis:-: Smooth endoplasmic reticulum also contribute in the Synthesis of cellular membrane including the membrane of golgi bodies and perioxome.\n\n7. \n",
+      "date": "1st/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 295,
+      "boxId": 8,
+      "subBoxId": 22,
+      "title": "Function of Smooth ER : Summary ",
+      "content": "1. Lipid metabolism\n2. Carbohydrates metabolism\n3. Steroids hormones Synthesis \n4. Membrane Synthesis\n5. Detoxification/Biotransformation \n6. Calcium ion reservoir/storage ",
+      "date": "1st/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 296,
+      "boxId": 8,
+      "subBoxId": 22,
+      "title": "Cells that contains rough endoplasmic reticulum ",
+      "content": "1. Pancreatic cells :-: this cells secrets pancreatic digestive enzymes. They richly contains rough ER that Synthesize those proteins, modified them to the structure that suit their function, parkaged the modified proteins into a vessicle and transport to where they are secreted.\n\n2. Plasma cells (B lymphocytes) . This are type of white blood cells that produces antibodies, they richly contains smooth ER that Synthesizes and post-translate proteins that functions as antibodies.\n\n3. Endocrine cell \n4. Nerve cells\n5. ",
+      "date": "1st/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 297,
+      "boxId": 8,
+      "subBoxId": 23,
+      "title": "Outline ",
+      "content": "1. Definition of golgi body ",
+      "date": "2nd/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 298,
+      "boxId": 8,
+      "subBoxId": 23,
+      "title": "Definition of golgi body",
+      "content": "Golgi bodies also know as golgi apparatus or golgi complex is a cellular organelles found within the cytoplasm of eukaryotic cells near the nucleus and endoplasmic reticulum. It consist of series flattened and folded membrane bound sac called cisternae.\nIt an important role in modifications and packaging of proteins into a vessicle for transporting to various destination, which might be\n\n a. To the cell membrane to be incorporated as components of cell membrane\nb. Out of the cell\nc. To lysosomes\n\nGolgi body has two faces\na. Cis face: it faces the endoplasmic reticulum, it's convex face of the golgi body where protein and other materials enter the golgi body\n\nb. Trans face : this is concave face , where materials like, modified proteins,lipids etc are transported to their various destination.\n",
+      "date": "2nd/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 299,
+      "boxId": 8,
+      "subBoxId": 23,
+      "title": "Function of golgi bodies (detail) ",
+      "content": "1. Protein modifications :-: proteins from endoplasmic reticulum are transported in a vessicle directed by protein called Cop 2 to the golgi bodies through the cis face of the golgi bodies where further modified and folded for their efficiency, such modifications includes\na. Trimming of the N-linked oligosaccharides\nb. ",
+      "date": "2nd/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 300,
+      "boxId": 8,
+      "subBoxId": 24,
+      "title": "Outline ",
+      "content": "1. Definition ",
+      "date": "3rd/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 301,
+      "boxId": 8,
+      "subBoxId": 24,
+      "title": "Definition of cell cycle",
+      "content": "Cell cycle is the series of event or process that takes place In a cell as it replicates and divides into two daughters, this process are 4 staged process which includes\n1. G-1 phase \n2. S-phase \n3. G-2 phase\n4. Mitosis ",
+      "date": "3rd/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 302,
+      "boxId": 8,
+      "subBoxId": 24,
+      "title": "Phase in cell cycle",
+      "content": "1. InterPhase\n   a. G1 phase",
+      "date": "3rd/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 303,
+      "boxId": 8,
+      "subBoxId": 24,
+      "title": "G1 phase",
+      "content": "This a preparatory period as the cell prepares it self for the cell cycle\n\n1. The cell Synthesizes proteins and enzymes that are need for the cell cycle\n2. The cell makes more organelles that will be sufficient to the two daughters cell\n3. Cell checkes for any damage especially in the DNA for repair, if the DNA is damaged beyond repair, the cell might enter opoptosis(cell death)\n4. Cells also carry it normal function \n5. After completing the above before going into the next phase the cell enters a critical checkpoint called G1/S checkpoint. Where the cell assess it's  integrity to know whether to proceed with the cell cycle or not",
+      "date": "3rd/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 304,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "Outline ",
+      "content": "=: introduction/ Definition of lipoprotein\n=: Structure of lipoproteins\n=: types of lipoproteins \n=: basics of lipid transport ",
+      "date": "6th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 305,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "Definition of lipoprotein ",
+      "content": "Lipoproteins are complex molecules composed of lipid and protein known as Apolipoprotein that help in the transportation of  lipids such as triglycerides and cholesterol from dietary  or specific organ where they are synthesized through the blood stream to peripheral tissues ",
+      "date": "6th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 306,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "Structure of lipoprotein ",
+      "content": "Lipoproteins is made up of \n1. core composed of hydrophobic lipids such as cholesterol ester and triglycerides hence know as hydrophobic core\n2. Hydrophilic shell :-: the hydrophobic core is surrounded by shell composed of hydrophilic lipid such phosphorlipids , free cholesterol and also proteins called Apoproteins\n\nThis makes the lipoproteins polar and also enhance the hydration of the shell this because the negative nitrogen ion in phosphorlipids forms ionic bond with hydrogen ion in water,  \n\nThe Apolipoprotein also enhance the solubility of lipoprotein ",
+      "date": "6th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 307,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "Types of lipoproteins ",
+      "content": "1. Chylomicrons\n2. Chylomicrons Remnant \n3. Very low density lipoproteins (VLDL)\n4. VLDL Remnant / Intermediate density lipoproteins (IDL)\n5. Low density lipoproteins (LDL)\n6. High density lipoproteins (HDL)\n\nN.B Chylomicrons is the largest lipoproteins with least density while HDL is the smallest lipoproteins with the highest density ",
+      "date": "6th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 308,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "Basics of lipid transport ",
+      "content": "1. Lipids are non polar substance and because of this they cannot be transported alone through the blood, a transport medium for lipid which is a polar environment \n2. Hence lipoprotein play a vital role in the transportation of lipids by forming a polar shell composed of hydrophilic lipids and Apolipoprotein around the non polar lipids. Therefore lipid can now be transported through the polar environment which is blood ",
+      "date": "6th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 309,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "Chylomicrons ",
+      "content": "Characteristics \n1. Chylomicrons is the largest lipoproteins of diameter of about 75 - 100 nanometers\n2. It has the lowest protein to lipid ratio, contains 90% lipids, hence it has the lowest density \n3. It contains more triglycerides than cholesterol in its hydrophobic core\n\nSYNTHESIS \n1. They are synthesized by the \nepithelial cell of the small intestine via exogenous lipoproteins pathway and secreted into the lymphatic vessels that drains the gut and then enter the blood stream via subclavian vein\n2\n\nAPOPROTEINS\n1. ApoB-48\n2. ApoE\n3. ApoC-2 ( which activates capillary lipoproteins lipase)\n",
+      "date": "6th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 310,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "Lipoproteins lipase(LPL)",
+      "content": "This is an enzyme Synthesized in the adipose tissue, skeletal muscle, smooth muscle and acinar cell of mammary tissue and located on the surface of  capillaries endothelial cells\n\nAs Chylomicrons level in the blood increase, a lipoproteins that carries tryglycerol to adipose, skeletal and smooth muscle and mammary gland, the insulin hormone stimulate the secretion of LDL which is activated by ApoC-2 on the chylomicrons. This isoenzyme when activated becomes an enzyme hydrolyse the triglycerides in the chylomicrons into free glycerol and fatty acids\n\nMuscles cell oxidizes the fatty acid to generate energy, Adipocytes and mammary gland stores  as triglycerides in case of lactating breast can be used in production of milk in mammary gland",
+      "date": "6th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 311,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "Chylomicrons Remnant ",
+      "content": "This is chylomicrons with depleted tryglycerides, it has lost its ApoC-2, hence containing only ApoB-48 and ApoE\n\nApoE binds to the receptor on the plasma membrane of the liver cells, transporting the Chylomicrons into the cell via receptor mediated endocytosis,\n\nThe lipids and proteins from Chylomicrons are use in the Synthesis of VLDL and LDL",
+      "date": "6th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 312,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "Very Low Density lipoproteins ",
+      "content": "APOPROTEINS present\na. ApoE\nb. ApoC-2\nc. ApoB-100\n\n\nThis is a lipoproteins that carries triglycerides from the liver to peripheral tissues e.g adipose tissue, skeletal and cardiac muscle and lactating breast\n\nWhen carbohydrates from diet exceeds the fuel requirement of the body, the liver coverts these carbohydrates to triglycerides and in combination with free and esterified cholesterol, phosphorlipids and a major Apolipoprotein ApoB-100 are packaged to form nascent VLDL\n\nThis VLDL are secreted in to the blood stream (via endogenous pathway of lipoprotein metabolism) where they pick up ApoC-11 and ApoE hence becoming mature VLDL\n\nVLDL are then transported from hepatic vein to capillaries of Adipocytes, skeletal and cardiac muscle and mammary gland, the Lipoproteins lipase is the activated by ApoC-2, and it hydrolyse the triglycerides in VLDL into free fatty acid and glycerol, these fatty acids are oxidized to produce fuel by muscle cells, used in resynthesis of triglycerides by Adipocytes, and used to produce milk by lactating breast \n\nThese VLDL are now largely depleted of their triglycerides hence giving rise to Intermediate Density lipoproteins (IDL) which are taking up by the liver through the bunding of ApoE of IDL to Apo E receptor on the plasma membrane of hepatocytes.\n\nNote: ApoC-3 is a minor Apolipoprotein on both VLDL and chylomicrons that inhibited lipoproteins lipase ",
+      "date": "6th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 313,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "IDL (intermediate density lipoproteins)",
+      "content": "When VLDL is depleted of its triglycerides, it becomes IDL which is now taken to the liver for degradation and Synthesis of other lipoproteins \n\nAPOPROTEINS\nApoB-100, ApoE",
+      "date": "6th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 314,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "LDL",
+      "content": "This are lipoproteins that richly contains cholesterol whose principal function is to carry cholesterol both free and esterified to peripheral tissues such as adrenocortical cells ( where they are use to Synthesize steroid hormone) and gonads (where they are use to Synthesize sex hormones like testosterone)\n, most of the cholesterol found in blood plasma is associated with LDL\n\nThey are generated from IDL a specific VLDL Remnant, by the action of hepatic glyceride lipase within the hepatic sinusoid, by the removal of additional triglycerides from IDL,\n\nAPOPROTEINS PRESENT\nApoB-100 only\n\nClinical\nWhen their to much LDL in the blood, it begins to form fatty deposit in the artery called plaque which narrows the artery reducing blood flow through the artery increasing the of certain disease, common place where this plaque are formed \n1. Coronary artery which feeds the heart and this might the risk of heart attack \n2. Cortid artery around the neck that supplies blood to the brain, this can Increase the risk of a stroke\n",
+      "date": "6th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 315,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "HDL",
+      "content": "This is very dense lipoproteins that primary takes excess cholesterol from arteries and cell to the liver through reverse cholesterol transport where they are removed hence reducing the risk of arterial disease etc\n\nAPOLIPOPROTEIN PRESENT \n1. ApoA-1 \n2. ApoA-2 \n(Major)\n3. ApoC-1\n4. ApoC-2\n\nHDL are synthesized and secreted by the liver and they nascent HDL, as they pick up cholesterol and their core is progressively filled with cholesterol they take a globular shape and become a mature HDL\n\nThere is a protein called ATP binding cassette protein 1(ABCA1), in the cell which uses ATP hydrolysis to move cholestero l from inner to outer membrane where they are picked up by HDL\n\nThis free cholesterol is left like that will go back to the cell, hence they are trapped with the help of an enzyme called LCAT(lecithin cholesterol AcylTransferase) synthesized and secreted by the liver, this enzyme catalysed the transfer of fatty acid from second lecithin(phosphatidycholine) in the  hydrophilic shell of HDL to 3-hydroxyl group of cholesterol forming cholesterol ester which now migrates to the core.\n\nFATE OF HDL CHOLESTEROL\nThe mature HDL then interact with Scavenger receptors B-1 (SR-B1) present in most cells via ApoA-1 transferring its cholesterol into the cell , depleted of its cholesterol move back into circulation.",
+      "date": "6th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 316,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "Function of Apolipoproteins",
+      "content": "1. They form part of the structure of lipoproteins, mostly found on the hydrophilic shell of lipoproteins e.g ApoC-11, ApoE etc\n\n2. They act as a co-factor to certain enzymes e.g ApoC-2  for Lipoproteins lipase and ApoA-1 for lecithin cholesterol AcylTransferase.\n\n3. They act as a ligands which interact with lipoproteins receptors in tissue  e.g ApoE and ApoB-100 in LDL , ApoA-1 in HDL",
+      "date": "7th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 317,
+      "boxId": 11,
+      "subBoxId": 25,
+      "title": "APOPROTEINS and their functions",
+      "content": "1. ApoA-1 : it is Synthesized in the liver and intestines and it is major Apolipoprotein of HDL proteins that made up about 70% of HDL protein\na. It enables HDL to interact with     ATP-binding cassette protein 1 (ABCA1) and scavenger receptor B1 (SR-B1)\nb. It activates lecithin-cholesterol AcylTransferase (which esterifies cholesterol)\n\nApoA-1 is mostly associated with low risk of arterial disease/atherosclerosis \n\n2. ApoC-2 : this is present in Chylomicrons and VLDL , it activates lipoproteins lipase which hydrolysis triacylglycerides into free glycerol and fatty acid .\n\n3. ApoE : present in Chylomicrons, VLDL and IDL, it interact with ApoE receptor on liver membrane hence mediating the uptake of chylomicrons Remnant and IDL into the liver cells through receptor medated endocytosis \n\n\n3. ApoB-100 :-:  is found in LDL as the only structural lipoproteins, and it facilitate the transport of cholesterol to peripheral tissues, and often associated with atherosclerosis, it also found in VLDL and IDL\n\n4. ApoC-111 : found in VLDL and IDL , it inhibites lipoproteins lipase, hence it delays the clearance of triglycerides rich lipoprotein from the blood\n\n5. ApoB-48 : it is one of the structural Apolipoproteins in Chylomicrons \n\n",
+      "date": "7th/Oct/2023",
+      "favorite": false
+    }
+  ],
+  "SubBoxes": [
+    {
+      "id": 1,
+      "boxId": 1,
+      "title": "Hemoglobin "
+    },
+    {
+      "id": 2,
+      "boxId": 2,
+      "title": "Anatomy of Upper Limb"
+    },
+    {
+      "id": 3,
+      "boxId": 2,
+      "title": "Clavicle "
+    },
+    {
+      "id": 4,
+      "boxId": 2,
+      "title": "Scapular "
+    },
+    {
+      "id": 5,
+      "boxId": 3,
+      "title": "Number System"
+    },
+    {
+      "id": 6,
+      "boxId": 4,
+      "title": "Chemistry of Carbohydrates "
+    },
+    {
+      "id": 7,
+      "boxId": 4,
+      "title": "Key facts"
+    },
+    {
+      "id": 8,
+      "boxId": 2,
+      "title": "Humerus "
+    },
+    {
+      "id": 9,
+      "boxId": 2,
+      "title": "Breast "
+    },
+    {
+      "id": 10,
+      "boxId": 2,
+      "title": "Key Fact"
+    },
+    {
+      "id": 11,
+      "boxId": 5,
+      "title": "Membrane potential "
+    },
+    {
+      "id": 12,
+      "boxId": 6,
+      "title": "Amino acid"
+    },
+    {
+      "id": 13,
+      "boxId": 6,
+      "title": "Key Fact"
+    },
+    {
+      "id": 14,
+      "boxId": 7,
+      "title": "Extracurricular "
+    },
+    {
+      "id": 15,
+      "boxId": 8,
+      "title": "Cell"
+    },
+    {
+      "id": 16,
+      "boxId": 8,
+      "title": "N.B"
+    },
+    {
+      "id": 17,
+      "boxId": 2,
+      "title": "Brachai plexus "
+    },
+    {
+      "id": 18,
+      "boxId": 11,
+      "title": "Lipids"
+    },
+    {
+      "id": 19,
+      "boxId": 11,
+      "title": "N.B"
+    },
+    {
+      "id": 20,
+      "boxId": 11,
+      "title": "Fatty acids"
+    },
+    {
+      "id": 21,
+      "boxId": 2,
+      "title": "Upper arm muscle "
+    },
+    {
+      "id": 22,
+      "boxId": 8,
+      "title": "Endoplasmic reticulum "
+    },
+    {
+      "id": 23,
+      "boxId": 8,
+      "title": "Golgi body"
+    },
+    {
+      "id": 24,
+      "boxId": 8,
+      "title": "Cell cycle"
+    },
+    {
+      "id": 25,
+      "boxId": 11,
+      "title": "Lipoprotein "
+    }
+  ]
+}

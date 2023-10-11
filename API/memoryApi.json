@@ -43,6 +43,10 @@
     {
       "id": 11,
       "box": "BCH (lipids)"
+    },
+    {
+      "id": 12,
+      "box": "Secrets power of the universe "
     }
   ],
   "Cards": [
@@ -2889,6 +2893,87 @@
       "content": "1. ApoA-1 : it is Synthesized in the liver and intestines and it is major Apolipoprotein of HDL proteins that made up about 70% of HDL protein\na. It enables HDL to interact with     ATP-binding cassette protein 1 (ABCA1) and scavenger receptor B1 (SR-B1)\nb. It activates lecithin-cholesterol AcylTransferase (which esterifies cholesterol)\n\nApoA-1 is mostly associated with low risk of arterial disease/atherosclerosis \n\n2. ApoC-2 : this is present in Chylomicrons and VLDL , it activates lipoproteins lipase which hydrolysis triacylglycerides into free glycerol and fatty acid .\n\n3. ApoE : present in Chylomicrons, VLDL and IDL, it interact with ApoE receptor on liver membrane hence mediating the uptake of chylomicrons Remnant and IDL into the liver cells through receptor medated endocytosis \n\n\n3. ApoB-100 :-:  is found in LDL as the only structural lipoproteins, and it facilitate the transport of cholesterol to peripheral tissues, and often associated with atherosclerosis, it also found in VLDL and IDL\n\n4. ApoC-111 : found in VLDL and IDL , it inhibites lipoproteins lipase, hence it delays the clearance of triglycerides rich lipoprotein from the blood\n\n5. ApoB-48 : it is one of the structural Apolipoproteins in Chylomicrons \n\n",
       "date": "7th/Oct/2023",
       "favorite": false
+    },
+    {
+      "id": 318,
+      "boxId": 11,
+      "subBoxId": 20,
+      "title": "Saturated fatty acid 2",
+      "content": "5433\n\nSCFA(2-6) 5\n1. Acetic (C2:0)\n2. Propionic (C3:0)\n3. Butyric Acid (Butanoic Acid): \n    4 carbons (C4:0)\n3. Valeric acid (pentanoic) (C5:0)\n4. Caproic Acid (Hexanoic Acid): \n     6 carbons (C6:0)\n\n\nMCFA(8-14) 4\n5. Caprylic Acid (Octanoic Acid): \n    8 carbons (C8:0)\n6. Capric Acid (Decanoic Acid): \n    10 carbons (C10:0)\n7. Lauric Acid (Dodecanoic \n    Acid): 12 carbons (C12:0)\n8.  Myristic Acid (Tetradecanoic Acid): 14 carbons(C14:0)\n\n\nLCFA(16-20) 3\n9. Palmitic Acid (Hexadecanoic \n     Acid): 16 carbons (C16:0)\n10. Stearic Acid (Octadecanoic \n      Acid): 18 carbons (C18:0)\n11. Arachidic Acid (Eicosanoic \n       Acid): 20 carbons (C20:0)\n\n\nVCFA(22-24) 3\n12. Behenic Acid (Docosanoic \n       Acid): 22 carbons (C22:0)\n13. Tricosanoic Acid: 23 \n        carbons (C23:0)\n14. Lignoceric Acid \n      (Tetracosanoic Acid): 24 \n       carbons (C24:0)",
+      "date": "8th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 319,
+      "boxId": 11,
+      "subBoxId": 20,
+      "title": "W-3,w-6 and w-9 acid",
+      "content": "W-3\n1. Alpha linoleic acid(C18:3). \n    (octadecatrienoic)\n2. Trimnodonic (C20:5)\n    acid(Eicosspentaenoic acid). \n    (EPA)\n3. Cervonic acid(C22:6)\n     (Docosahexaenoic acid)(DHA)\n\n\nW-6\n1. Linoleic acid(C18:2). (9,12)\n    (octadecadienoic)\n2. Gamma linoleic(C18:3). (6,9,12)\n   (octadecatrienoic)\n3. Arachidonic acid(C20:4). (5,8,11,14)\n    (Eicosatetraenoic)\n\n\nW-9\n1. Oleic acid (18:1) cis-9 octadecenoic acid\n2. Elaidic acid (18:1) trans-9 octadecenoic acid",
+      "date": "8th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 320,
+      "boxId": 11,
+      "subBoxId": 20,
+      "title": "Essential and non-essential ",
+      "content": "Essential (can't be Synthesized in the body)\n1. Linoleic acid w-6\n3. Alpha linoleic acid w-3",
+      "date": "8th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 321,
+      "boxId": 12,
+      "subBoxId": 26,
+      "title": "Our word is completely perfect ",
+      "content": "Our word is created to a complete perfection meaning that it is completely fair to everybody\n\nBut why saying this when some are born into wealth why some are not, when some are born with no legs or hands etc\n\nAm saying this in reference to the law of attraction which work for every body in the same manner, this entails that every body has the ability to create their lives the way they want it to be, to attract what they want and becoming anything they wish to be no matter the family you are born into, whether poor or rich.",
+      "date": "9th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 322,
+      "boxId": 12,
+      "subBoxId": 26,
+      "title": "Brief on law of attraction ",
+      "content": "1. Law of attraction states that we can create events, circumstances, people etc we want in our lives by our thoughts and emotions, meaning that we can get anything or become anything we want in our lives through our thoughts and emotions when used in a positive way\n\n2. Similarly we can create our own negative circumstances through our and emotions\n\n3. We live in a word of cause and effect, every actions of our has attract an effect\n\n4. Law of attraction it's just like any other law of the universe, it has ways of making it work, so that you can actualize your dreams",
+      "date": "9th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 323,
+      "boxId": 11,
+      "subBoxId": 27,
+      "title": "Oral cavity and Stomach ",
+      "content": "1. The sublingual salivary gland at back of the tongue and the parotid at side of the face anterior to the ear secrets a lingual lipase \n\n2. Chief cells in the stomach secrets gastric lipase\n\nBoth acts on of triglycerides in the food breaking down the ester linkage to form fatty acid and monoacylglycerides\n\nThese digestion is limited due to the insolubility of the substrate.\n\n3. The pancreas also secrets phosphorlipase A2. Which hydrolyse phosphorlipids in diet , and cholesterol esterase which hydrolyse cholesterol ester",
+      "date": "9th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 324,
+      "boxId": 11,
+      "subBoxId": 27,
+      "title": "Intestines ",
+      "content": "1. As food enters the intestine an hormone called cholecystokinin which triggers the secretion of bile acid from gall bladder and pancreatic lipase from pancreas ",
+      "date": "9th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 325,
+      "boxId": 11,
+      "subBoxId": 27,
+      "title": "Gall bladder and pancreas ",
+      "content": "1. Gall bladder stores bile Synthesized by the liver, the cystic duct of the bladder fused with the pancreatic duct of the pancreas to form apado pancreatic ampulla which is surrounded by a ring of smooth muscle called sphincter of oddibor paddle of pancreatic sphincter.\n\nOn relaxation of the smooth muscle the bile and pancreatic lipase are secreted.",
+      "date": "9th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 326,
+      "boxId": 11,
+      "subBoxId": 27,
+      "title": "Bile",
+      "content": "Bile is made up of \n1. Phosphorlipids (lecithin)\n2. Bile salt\na. Cholic \nb. Chenodeoxycholine acid",
+      "date": "9th/Oct/2023",
+      "favorite": false
     }
   ],
   "SubBoxes": [
@@ -3016,6 +3101,16 @@
       "id": 25,
       "boxId": 11,
       "title": "Lipoprotein "
+    },
+    {
+      "id": 26,
+      "boxId": 12,
+      "title": "Power within us"
+    },
+    {
+      "id": 27,
+      "boxId": 11,
+      "title": "Digestion of lipids"
     }
   ]
 }

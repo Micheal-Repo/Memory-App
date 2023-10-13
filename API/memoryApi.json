@@ -47,6 +47,10 @@
     {
       "id": 12,
       "box": "Secrets power of the universe "
+    },
+    {
+      "id": 13,
+      "box": "Bible"
     }
   ],
   "Cards": [
@@ -2974,6 +2978,321 @@
       "content": "Bile is made up of \n1. Phosphorlipids (lecithin)\n2. Bile salt\na. Cholic \nb. Chenodeoxycholine acid",
       "date": "9th/Oct/2023",
       "favorite": false
+    },
+    {
+      "id": 327,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Outline ",
+      "content": "=. Anatomy of skeletal muscle ",
+      "date": "11th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 328,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Skeletal muscle Overview ",
+      "content": "40% of our body is consist of skeletal muscle, while smooth and cardiac muscle occupies 10% of the body\nSkeletal muscle are voluntary muscle, that are attached to the skeletal system, causing movement of the body\n\n- skeletal muscle is made of fibres with diameter ranging from 10 to 80 micrometer\n- each fibres has subunits and are innervated by one nerve endings at the middle of the fibre\n- some of this fibre extend through the length of the muscle",
+      "date": "11th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 329,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Function of the skeletal muscle ",
+      "content": "1. Contractions of the skeletal muscles result in the movement of the whole or part of the body\n2. They stabilizes bone joints\n3. They stabilize body posture\n4. The contractions of the skeletal muscle generates heat which help to keep the body warm\n5. It also protects delicate part of the body.",
+      "date": "11th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 330,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Bone Attachment of skeletal muscle ",
+      "content": "I. The skeletal muscle is attached to the bone in two means\n\n1. Direct attachment :- this is seen when the epimysium of the muscle attaches to the PERIOSTEUM(a connective tissue the surround the bone except at the joint ) or to the PERICHONDRIUM (that covers the Hyaline Cartilage)\n\n2. Indirect attachment: muscle is attached to bone indirectly through\n1. Tendon\n2. APONEUROSIS\nThis is a better because\ni. tendon conserve more space\nii. Tendon contain collagen protein which gives the tendon it's tough and resilient property, hence can withstand friction against bone during muscle contractions ",
+      "date": "11th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 331,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Structure of skeletal muscle",
+      "content": "Skeletal muscle is considered an organ made up of\na. Connective tissues\nb. Muscle fibres\nc. Nerve\nd. Blood vessels\n\n=: the outer layer of the muscle tissue is covered by a connective tissue known as EPIMYSIUM a dense, fibrous and irregular connective tissues ( Epi means upon, outer covering etc mysium is a Greek word for muscle)\n=: inside of the muscle tissue consist of bundles of muscle fibres called FASCICLE ( meaning bundle) these FASCICLE is covered by a connective tissue called PERIMYSIUM which is also a dense, fibrous anf irregular connective tissues.\n=:  Each muscle fibres inside the fascicles are surrounded by an areola connective tissues less dense than that of epi and peri mysium and it's called ENDOMYSIUM.",
+      "date": "11th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 332,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Muscle Fibre",
+      "content": "Muscle fibre long, cylindrical fibres, \n\n=: muscle fibre are multinucleated, cylindrical and striated(i.e it has a stripe appearance) the membrane of the muscle fiber contains sarcoplasmic reticulum which stores Ca²+ \n\n=: Each of the muscle fibres are surrounded by a plasma membrane made up phosphorlipids called SARCOLEMMA which is underneath the endomysium\n\n=: Each muscle Fibre is made of hundreds and thousands of myofibrils.\n",
+      "date": "11th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 333,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Myofibrils ",
+      "content": "=: myofibrils consist of repeating segments called sarcomere, which is the contractile unit of muscle, responsible for the contractions of muscle\n\n=: Each myofibrils contains 1500 myosin filament and 3000 actin filament ",
+      "date": "11th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 334,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Sarcomere ",
+      "content": "The length of each sarcomere is 2 micrometer\n\n=: Z-DICS : the end point of each sarcomere is marked by Z-disc/lines , a zig zag structure that provides attachment to thin actin filaments and elastic protein called TITIN, the main protein in the Z-disc is apha-actinin\n\n=: Each sarcomere contains\n a. Thin actin filaments attached to the Z-disc\nb. Thick myosin filaments attached to Titin which I turn attached to the Z-disc\n\nBANDS\n=: the sarcomere is divided into bands, and the arrangements of filaments in these bands gives it it's striation, this hand includes\n1. A-band(Anisotropic to polarized light): this section of the sarcomere contains the entire length of the thick myosin filaments and overlapping portion of thin actin filaments, and it make's up the dark portion of the sarcomere striation\n2. I-band (Isotropic band to polarized light) : this section surrounds the Z-disc and contains only the actin filaments, it makes up the light part of sarcomere striation.\n\n=: H-zone : this is the section in A-band that contains the thick myosin filaments with embedded M-line at the center, it the distance between two thin actin filaments of the same sarcomere.\n \n=: M-lines : this anchor to the center of myosin joining them together(hence stabilizing the myosin) and acting as shock absorber. It contains a protein called myomesin\n\n",
+      "date": "11th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 335,
+      "boxId": 13,
+      "subBoxId": 29,
+      "title": "Malachi 4:1.",
+      "content": "The Lord of Heaven’s Armies says, 'The day of judgment is coming, burning like a furnace. On that day the arrogant and the wicked will be burned up like straw. They will be consumed — roots, branches, and all.",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 336,
+      "boxId": 13,
+      "subBoxId": 29,
+      "title": "Malachi 4:2",
+      "content": "But for you who fear my name, the Sun of Righteousness will rise with healing in his wings. And you will go free, leaping with joy like calves let out to pasture.",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 337,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Thin actin filaments",
+      "content": "1. Actin filaments:- attaches to the Z-disc by means of a protein called nebulin\na. The monomer of actin is called G-actin(Globular actin) while polymerized G-actin is called F-actin(Filamentous actin)\nThe combination of the multiple F-actin forms the thin actin filaments \n\nb. There is a hole on the surface of actin called actin site of actin filament, this hole is covered by a protein called TROPOMYOSIN when the muscle is at rest , preventing myosin from binding to the active in order to induce contraction\n\nTROPONIN\nc. There is a protein in the myofibrils called TROPONIN, it has three sites\n1. Troponin-C : binds with calcium ions \n2. Troponin-T : binds with TROPOMYOSIN\n3. Troponin-I : binds with actin filament (I stand for inhibitory)",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 338,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Myosin filament ",
+      "content": "1. The myosin filaments is made up of three parts\n\na. Head (has two head which binds to the active site of actin to induce contraction of the whole myofibrils, it contains enzyme which breaks down ATP called ATPase) \n\nb. Neck : has two light chains\nI. Essential light chain (supports the head and neck)\nii. Regulatory light chain (undergoes Phosphorylation inorder regulates the activity of the myosin)\n\nC. Tail :  \n\n",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 339,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Cross brigde",
+      "content": "The small projection on the surface of myosin is called cross bridge it interact with the active site of the actin to cause contraction",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 340,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Titin",
+      "content": "Is one of the largest protein in the body, it Filamentous and connect the myosin Filament to the z-disc hencr stabilizing the myosin Filament \nIt is a elastic and act as a spring in the contractions of the myofibrils \n1. It helps to restore contracted myofilament to its resting position\n2. It helps to keep the thick filament in proper alignment ",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 341,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Sarcoplasm",
+      "content": "Sarcoplasm is the intracellular fluid that occupies the intracellular space between  myofibrils, it's just the cytoplasm of of muscle cell/fibres, myofibrils are placed side by side in the muscle cell and the space between these myofibrils is filled with a fluid called sarcoplasm is contains large quantities of\n1. Magnesium\n2. Potassium\n3. Phosphate\n4. Proteins enzymes\n5. Mitochondria (lies parallel to the myofibrils and supplies the myofibrils with energy in form of ATP)",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 342,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Sarcoplasmic reticulum ",
+      "content": "This is a specialized form of endoplasmic reticulum found within the muscle fibres inside the sarcoplasm surrounding each myofibrils, it stores calcium ion need for contraction",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 343,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Nebulin ",
+      "content": "This is protein structure that connects the whole actin filament to the z-disc",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 344,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "G-actin & F-actin",
+      "content": "1. G-actin (Globular actin) : is the unit of actin molecules i.e it is the monomer of actin molecules\n\n2. F-actin : G-actin polymerized to form a filament structure called F-actin\n\nMultiple F-actin combines together to form a helix structure called actin filament.",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 345,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Tropomyosin",
+      "content": "This is a protein that wrapped around the actin filament when the muscle is at rest , blocking the active site of the actin hence preventing the myosin from binding to the active site.",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 346,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Alpha actinin",
+      "content": "This is the main protein in the z-disc",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 347,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "M-line",
+      "content": "This is a protein structure that runs through the center of the sarcomere and the thick filament ",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 348,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Dystrophy ",
+      "content": "This a glycoproteins complex that connects the thin filament cytoskeleton to the SARCOLEMMA through it amino terminal domain, it is cohesive protein that stabilizes the SARCOLEMMA ",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 349,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "Muscular dystrophy ",
+      "content": "This is an x linked disorder, it is as a result of the mutation of the dystrophy protein\nThere are two types of dystrophy\n1. Duchene(absence of dystrophy)\n2. Becker (misfolding of dystrophy protein)",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 350,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "PERIOSTEUM ",
+      "content": "This is a dense , fibrous connective tissues membrane that covers the outer surface  of bone except the articular surface, it contains blood capillaries which supplies blood to bone cells and nerves fibres with give the bone cells their innervation ",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 351,
+      "boxId": 5,
+      "subBoxId": 28,
+      "title": "PERICHONDRIUM ",
+      "content": "This is a dense and irregular connective tissues that cover the surface of cartilage ",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 352,
+      "boxId": 5,
+      "subBoxId": 30,
+      "title": "Componnents of skeletal muscle",
+      "content": "1. Connective tissues\n2. Muscle fibres/cells\n4. Blood vessels\n5. Nerve fibres",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 353,
+      "boxId": 5,
+      "subBoxId": 30,
+      "title": "Connective tissues ",
+      "content": "1. Epimysium:- surround the outer surface of the muscle, it contains collagen fibre\n\n2. PERIMYSIUM surround the muscle fibre bundle called FASCICLE, it contains capillaries, nerve fibre, collagen\n\n3. Endomysium:- surround individual muscle fibre it contains myosatelite cells which is a stem cell that repair or replace damage cell",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 354,
+      "boxId": 5,
+      "subBoxId": 30,
+      "title": "Muscle fibre",
+      "content": "=: muscle fibre is multinucleated\nand striated\nThe following are associated with the muscle fibre\n1. SARCOLEMMA\n2. Transverse Tubules (T tubules)\n3. Sarcoplasmic reticulum \n4. Sarcoplasm\n5. ",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 355,
+      "boxId": 5,
+      "subBoxId": 30,
+      "title": "Transverse Tubules ",
+      "content": "The is the tube like structure rich with ion channel and continuous of the SARCOLEMMA it extends from the surface of the fibre  into the deep sarcoplasm \nIt conduct actions potential into the interior part of the cell ",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 356,
+      "boxId": 5,
+      "subBoxId": 30,
+      "title": "Triad",
+      "content": "Two Sarcoplasmic reticulum with the T tubules at the center form a Triad",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 357,
+      "boxId": 5,
+      "subBoxId": 30,
+      "title": "Myofibrils ",
+      "content": "Muscle cell/fibre contains thousands of myofibrils\nEach myofibrils is made up of thin and thick filament ",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 358,
+      "boxId": 5,
+      "subBoxId": 30,
+      "title": "Thin filament ",
+      "content": "Thin filament is made up of\n1. Actin filament: is made of two strands of Filamentous actin arranged to form a helix structure. This F-actin is made up of G-actin Globular arranged to form a Filamentous structure \n. Each G-actin has a hole called active site.\n\n2. Tropomyosin\n3. Troponin\n4. Nebulin \n",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 359,
+      "boxId": 5,
+      "subBoxId": 30,
+      "title": "Excitations Contractions coupling",
+      "content": "Note: each muscle fibre is innervated by a nerve endings at the center of the myofibre\n\n=:  Action potential traveling along the axon of a nerve fibre, on reaching the nerve endings triggers the release of neurotransmitters e.g Acetylcholine (ACH) \n\n=: the ACH moves across the synaptic cleft and binds to the Acetylcholine gated channel on the SARCOLEMMA of the muscle, the channel opens allowing the influx of sodium ion .\n\n=:  This causes depolarization of the cell membrane, leading to the opening of voltage gated sodium ion channel, Allowing sodium ion to rush into the cell membrane hence generating action potential\n=: action moves along the SARCOLEMMA , down into the sarcoplasm through the T tubules of the triad\n\n=: the movement of action potential along the T-Tubules opens the voltage sensitive protein channel of the Sarcoplasmic reticulum, allowing large calcium ion to rush out the trrminal cisternae of SRbinto the cystol of the cell within 1 millisecond.\n\n=:  calcium ion binds with the Troponin-C which causes the troponin proteins to change it position or shapes removing tropomyosin and exposing the active site of the actin\n\n=: the head of myosin binds with the active site",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 360,
+      "boxId": 5,
+      "subBoxId": 30,
+      "title": "Sliding muscle theory",
+      "content": "1. This is the most popular theory of muscle contraction\n\n2. It is proposed by Hugh Huxley in 1954\n\n3. It states that muscle contractions involves the sliding of the thin filament past the thick filament\n\n4. This sliding continues until overlapping of the thin filament over the thick filament is complete",
+      "date": "12th/Oct/2023",
+      "favorite": false
+    },
+    {
+      "id": 361,
+      "boxId": 5,
+      "subBoxId": 30,
+      "title": "Contractions of muscle",
+      "content": "1. As the active site is exposed due to the conformational change of the troponin, the myosin head then bind to the active site form a cross bridge \n2. The binding causes the breaking down of ATP Into ADP and Phosphate. Which the release of energy\n3. With the released energy the head of the myosin pulls the actin filament towards the M-line, shortening the sarcomere this action is known as Power Stroke\n4. The head detaches from the active site as ATP molecule attaches to it, this cycle is repeated as long as the calcium ion is binded to the troponin",
+      "date": "12th/Oct/2023",
+      "favorite": false
     }
   ],
   "SubBoxes": [
@@ -3111,6 +3430,21 @@
       "id": 27,
       "boxId": 11,
       "title": "Digestion of lipids"
+    },
+    {
+      "id": 28,
+      "boxId": 5,
+      "title": "Skeletal muscle "
+    },
+    {
+      "id": 29,
+      "boxId": 13,
+      "title": "Bible verse 1"
+    },
+    {
+      "id": 30,
+      "boxId": 5,
+      "title": "Summary for skeletal muscle "
     }
   ]
 }
